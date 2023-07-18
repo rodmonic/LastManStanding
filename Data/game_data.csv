@@ -1,0 +1,497 @@
+Game,Week,Date,Person,Team,Home,Goal difference,XG Difference,Result,XG Result,Season,Money,Game Win,Team ID,Match ID,Home,Home XG,Home Score,Away Team,Away XG,Away Score
+1,1,23/10/2021,Aidan,Chelsea,TRUE,7,3,1,1,21/22,-5,0,2021/10/23 - Chelsea,2021/10/23 - Chelsea vs Norwich City,Chelsea,3.1,7,Norwich City,0.1,0
+1,1,23/10/2021,Dom,Chelsea,TRUE,7,3,1,1,21/22,-5,0,2021/10/23 - Chelsea,2021/10/23 - Chelsea vs Norwich City,Chelsea,3.1,7,Norwich City,0.1,0
+1,1,23/10/2021,Leo,Everton,TRUE,-3,-2.2,0,0,21/22,-5,0,2021/10/23 - Everton,2021/10/23 - Everton vs Watford,Everton,1.5,2,Watford,3.7,5
+1,1,23/10/2021,Marcus,Chelsea,TRUE,7,3,1,1,21/22,-5,0,2021/10/23 - Chelsea,2021/10/23 - Chelsea vs Norwich City,Chelsea,3.1,7,Norwich City,0.1,0
+1,1,23/10/2021,Mark,Chelsea,TRUE,7,3,1,1,21/22,-5,0,2021/10/23 - Chelsea,2021/10/23 - Chelsea vs Norwich City,Chelsea,3.1,7,Norwich City,0.1,0
+1,1,23/10/2021,Oli,Chelsea,TRUE,7,3,1,1,21/22,-5,0,2021/10/23 - Chelsea,2021/10/23 - Chelsea vs Norwich City,Chelsea,3.1,7,Norwich City,0.1,0
+1,1,23/10/2021,Simon,Chelsea,TRUE,7,3,1,1,21/22,-5,0,2021/10/23 - Chelsea,2021/10/23 - Chelsea vs Norwich City,Chelsea,3.1,7,Norwich City,0.1,0
+1,1,23/10/2021,Birdy,Chelsea,TRUE,7,3,1,1,21/22,-5,0,2021/10/23 - Chelsea,2021/10/23 - Chelsea vs Norwich City,Chelsea,3.1,7,Norwich City,0.1,0
+1,2,30/10/2021,Aidan,Manchester City,TRUE,-2,0,0,0,21/22,0,0,2021/10/30 - Manchester City,2021/10/30 - Manchester City vs Crystal Palace,Manchester City,0.7,0,Crystal Palace,0.7,2
+1,2,30/10/2021,Dom,Liverpool,TRUE,0,0.5,0,0,21/22,0,0,2021/10/30 - Liverpool,2021/10/30 - Liverpool vs Brighton and Hove Albion,Liverpool,1.5,2,Brighton and Hove Albion,1,2
+1,2,30/10/2021,Leo,-,TRUE,0,0,0,0,21/22,0,0,2021/10/30 - -,-,-,-,-,-,-,-
+1,2,30/10/2021,Marcus,Middlesbrough,TRUE,-2,-0.2,0,0,21/22,0,0,2021/10/30 - Middlesbrough,2021/10/30 - Middlesbrough vs Birmingham City,Middlesbrough,0.8,0,Birmingham City,1,2
+1,2,30/10/2021,Mark,Liverpool,TRUE,0,0.5,0,0,21/22,0,0,2021/10/30 - Liverpool,2021/10/30 - Liverpool vs Brighton and Hove Albion,Liverpool,1.5,2,Brighton and Hove Albion,1,2
+1,2,30/10/2021,Oli,Manchester City,TRUE,-2,0,0,0,21/22,0,0,2021/10/30 - Manchester City,2021/10/30 - Manchester City vs Crystal Palace,Manchester City,0.7,0,Crystal Palace,0.7,2
+1,2,30/10/2021,Simon,Coventry City,FALSE,1,0.5,1,0,21/22,40,1,2021/10/30 - Coventry City,2021/10/30 - Hull City vs Coventry City,Hull City,0.7,0,Coventry City,1.2,1
+1,2,30/10/2021,Birdy,Liverpool,TRUE,0,0.5,0,0,21/22,0,0,2021/10/30 - Liverpool,2021/10/30 - Liverpool vs Brighton and Hove Albion,Liverpool,1.5,2,Brighton and Hove Albion,1,2
+2,1,06/11/2021,Aidan,Chelsea,TRUE,0,1.1,0,1,21/22,-5,0,2021/11/06 - Chelsea,2021/11/06 - Chelsea vs Burnley,Chelsea,1.8,1,Burnley,0.7,1
+2,1,06/11/2021,Birdy,Nottingham Forest,TRUE,3,1.2,1,1,21/22,-5,0,2021/11/06 - Nottingham Forest,2021/11/06 - Nottingham Forest vs Preston North End,Nottingham Forest,1.6,3,Preston North End,0.4,0
+2,1,06/11/2021,Dom,Chelsea,TRUE,0,1.1,0,1,21/22,-5,0,2021/11/06 - Chelsea,2021/11/06 - Chelsea vs Burnley,Chelsea,1.8,1,Burnley,0.7,1
+2,1,06/11/2021,Leo,Chelsea,TRUE,0,1.1,0,1,21/22,-5,0,2021/11/06 - Chelsea,2021/11/06 - Chelsea vs Burnley,Chelsea,1.8,1,Burnley,0.7,1
+2,1,06/11/2021,Marcus,Brentford,TRUE,-1,1.3,0,1,21/22,-5,0,2021/11/06 - Brentford,2021/11/06 - Brentford vs Norwich City,Brentford,2.5,1,Norwich City,1.2,2
+2,1,06/11/2021,Mark,Fulham,FALSE,1,-0.1,0,0,21/22,-5,0,2021/11/06 - Fulham,2021/11/06 - P'borough United vs Fulham,P'borough United,1.4,0,Fulham,1.3,1
+2,1,06/11/2021,Oli,Chelsea,TRUE,0,1.1,0,1,21/22,-5,0,2021/11/06 - Chelsea,2021/11/06 - Chelsea vs Burnley,Chelsea,1.8,1,Burnley,0.7,1
+2,1,06/11/2021,Simon,Fulham,FALSE,1,-0.1,0,0,21/22,-5,0,2021/11/06 - Fulham,2021/11/06 - P'borough United vs Fulham,P'borough United,1.4,0,Fulham,1.3,1
+2,2,13/11/2021,Aidan,-,TRUE,0,0,0,0,21/22,0,0,2021/11/13 - -,-,-,-,-,-,-,-
+2,2,13/11/2021,Birdy,Wycombe Wanderers,FALSE,0,0,0,0,21/22,0,0,2021/11/13 - Wycombe Wanderers,-,-,-,-,-,-,-
+2,2,13/11/2021,Dom,-,TRUE,0,0,0,0,21/22,0,0,2021/11/13 - -,-,-,-,-,-,-,-
+2,2,13/11/2021,Leo,-,TRUE,0,0,0,0,21/22,0,0,2021/11/13 - -,-,-,-,-,-,-,-
+2,2,13/11/2021,Marcus,-,TRUE,0,0,0,0,21/22,0,0,2021/11/13 - -,-,-,-,-,-,-,-
+2,2,13/11/2021,Mark,Sheffield Wednesday,FALSE,0,0,0,0,21/22,0,0,2021/11/13 - Sheffield Wednesday,-,-,-,-,-,-,-
+2,2,13/11/2021,Oli,-,TRUE,0,0,0,0,21/22,0,0,2021/11/13 - -,-,-,-,-,-,-,-
+2,2,13/11/2021,Simon,Plymouth Argyle,FALSE,0,0,1,0,21/22,40,1,2021/11/13 - Plymouth Argyle,-,-,-,-,-,-,-
+3,1,20/11/2021,Aidan,Fulham,TRUE,3,1.7,1,1,21/22,-5,0,2021/11/20 - Fulham,2021/11/20 - Fulham vs Barnsley,Fulham,2.9,4,Barnsley,1.2,1
+3,1,20/11/2021,Birdy,Norwich City,TRUE,1,-0.5,1,0,21/22,-5,0,2021/11/20 - Norwich City,2021/11/20 - Norwich City vs Southampton,Norwich City,0.5,2,Southampton,1,1
+3,1,20/11/2021,Dom,Manchester United,FALSE,-3,-1.3,0,0,21/22,-5,0,2021/11/20 - Manchester United,2021/11/20 - Watford vs Manchester United,Watford,2.7,4,Manchester United,1.4,1
+3,1,20/11/2021,Leo,Fulham,TRUE,3,1.7,1,1,21/22,-5,0,2021/11/20 - Fulham,2021/11/20 - Fulham vs Barnsley,Fulham,2.9,4,Barnsley,1.2,1
+3,1,20/11/2021,Marcus,Fulham,TRUE,3,1.7,1,1,21/22,-5,0,2021/11/20 - Fulham,2021/11/20 - Fulham vs Barnsley,Fulham,2.9,4,Barnsley,1.2,1
+3,1,20/11/2021,Mark,Manchester United,FALSE,-3,-1.3,0,0,21/22,-5,0,2021/11/20 - Manchester United,2021/11/20 - Watford vs Manchester United,Watford,2.7,4,Manchester United,1.4,1
+3,1,20/11/2021,Oli,Fulham,TRUE,3,1.7,1,1,21/22,-5,0,2021/11/20 - Fulham,2021/11/20 - Fulham vs Barnsley,Fulham,2.9,4,Barnsley,1.2,1
+3,1,20/11/2021,Simon,Fulham,TRUE,3,1.7,1,1,21/22,-5,0,2021/11/20 - Fulham,2021/11/20 - Fulham vs Barnsley,Fulham,2.9,4,Barnsley,1.2,1
+3,2,27/11/2021,Aidan,Liverpool,TRUE,4,1.9,1,1,21/22,0,0,2021/11/27 - Liverpool,2021/11/27 - Liverpool vs Southampton,Liverpool,2.9,4,Southampton,1,0
+3,2,27/11/2021,Birdy,Birmingham City,TRUE,1,0.8,1,0,21/22,0,0,2021/11/27 - Birmingham City,2021/11/27 - Birmingham City vs Blackpool,Birmingham City,1.3,1,Blackpool,0.5,0
+3,2,27/11/2021,Dom,-,TRUE,0,0,0,0,21/22,0,0,2021/11/27 - -,-,-,-,-,-,-,-
+3,2,27/11/2021,Leo,Arsenal,TRUE,2,2.2,1,1,21/22,0,0,2021/11/27 - Arsenal,2021/11/27 - Arsenal vs Newcastle United,Arsenal,2.5,2,Newcastle United,0.3,0
+3,2,27/11/2021,Marcus,Liverpool,TRUE,4,1.9,1,1,21/22,0,0,2021/11/27 - Liverpool,2021/11/27 - Liverpool vs Southampton,Liverpool,2.9,4,Southampton,1,0
+3,2,27/11/2021,Mark,-,TRUE,0,0,0,0,21/22,0,0,2021/11/27 - -,-,-,-,-,-,-,-
+3,2,27/11/2021,Oli,Arsenal,TRUE,2,2.2,1,1,21/22,0,0,2021/11/27 - Arsenal,2021/11/27 - Arsenal vs Newcastle United,Arsenal,2.5,2,Newcastle United,0.3,0
+3,2,27/11/2021,Simon,Liverpool,TRUE,4,1.9,1,1,21/22,0,0,2021/11/27 - Liverpool,2021/11/27 - Liverpool vs Southampton,Liverpool,2.9,4,Southampton,1,0
+3,3,04/12/2021,Aidan,Manchester City,FALSE,2,2.3,1,1,21/22,0,0,2021/12/04 - Manchester City,2021/12/04 - Watford vs Manchester City,Watford,0.8,1,Manchester City,3.1,3
+3,3,04/12/2021,Birdy,Reading,TRUE,0,0.2,0,0,21/22,0,0,2021/12/04 - Reading,2021/12/04 - Reading vs Hull City,Reading,1.4,1,Hull City,1.2,1
+3,3,04/12/2021,Dom,-,TRUE,0,0,0,0,21/22,0,0,2021/12/04 - -,-,-,-,-,-,-,-
+3,3,04/12/2021,Leo,Manchester City,FALSE,2,2.3,1,1,21/22,0,0,2021/12/04 - Manchester City,2021/12/04 - Watford vs Manchester City,Watford,0.8,1,Manchester City,3.1,3
+3,3,04/12/2021,Marcus,Manchester City,FALSE,2,2.3,1,1,21/22,0,0,2021/12/04 - Manchester City,2021/12/04 - Watford vs Manchester City,Watford,0.8,1,Manchester City,3.1,3
+3,3,04/12/2021,Mark,-,TRUE,0,0,0,0,21/22,0,0,2021/12/04 - -,-,-,-,-,-,-,-
+3,3,04/12/2021,Oli,Manchester City,FALSE,2,2.3,1,1,21/22,0,0,2021/12/04 - Manchester City,2021/12/04 - Watford vs Manchester City,Watford,0.8,1,Manchester City,3.1,3
+3,3,04/12/2021,Simon,Blackburn Rovers,TRUE,1,-0.5,1,0,21/22,0,0,2021/12/04 - Blackburn Rovers,2021/12/04 - Blackburn Rovers vs Preston North End,Blackburn Rovers,0.4,1,Preston North End,0.9,0
+3,4,11/12/2021,Aidan,Chelsea,TRUE,1,1.1,1,1,21/22,0,0,2021/12/11 - Chelsea,2021/12/11 - Chelsea vs Leeds United,Chelsea,2.5,3,Leeds United,1.4,2
+3,4,11/12/2021,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2021/12/11 - -,-,-,-,-,-,-,-
+3,4,11/12/2021,Dom,-,TRUE,0,0,0,0,21/22,0,0,2021/12/11 - -,-,-,-,-,-,-,-
+3,4,11/12/2021,Leo,Manchester United,FALSE,1,0.8,1,0,21/22,0,0,2021/12/11 - Manchester United,2021/12/11 - Norwich City vs Manchester United,Norwich City,1.2,0,Manchester United,2,1
+3,4,11/12/2021,Marcus,Chelsea,TRUE,1,1.1,1,1,21/22,0,0,2021/12/11 - Chelsea,2021/12/11 - Chelsea vs Leeds United,Chelsea,2.5,3,Leeds United,1.4,2
+3,4,11/12/2021,Mark,-,TRUE,0,0,0,0,21/22,0,0,2021/12/11 - -,-,-,-,-,-,-,-
+3,4,11/12/2021,Oli,Chelsea,TRUE,1,1.1,1,1,21/22,0,0,2021/12/11 - Chelsea,2021/12/11 - Chelsea vs Leeds United,Chelsea,2.5,3,Leeds United,1.4,2
+3,4,11/12/2021,Simon,Manchester City,TRUE,1,3,1,1,21/22,0,0,2021/12/11 - Manchester City,2021/12/11 - Manchester City vs Wolves,Manchester City,3.2,1,Wolves,0.2,0
+3,5,18/12/2021,Aidan,Blackburn Rovers,TRUE,4,3.5,1,1,21/22,0,0,2021/12/18 - Blackburn Rovers,2021/12/18 - Blackburn Rovers vs Birmingham City,Blackburn Rovers,4.3,4,Birmingham City,0.8,0
+3,5,18/12/2021,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2021/12/18 - -,-,-,-,-,-,-,-
+3,5,18/12/2021,Dom,-,TRUE,0,0,0,0,21/22,0,0,2021/12/18 - -,-,-,-,-,-,-,-
+3,5,18/12/2021,Leo,Blackburn Rovers,TRUE,4,3.5,1,1,21/22,0,0,2021/12/18 - Blackburn Rovers,2021/12/18 - Blackburn Rovers vs Birmingham City,Blackburn Rovers,4.3,4,Birmingham City,0.8,0
+3,5,18/12/2021,Marcus,Nottingham Forest,TRUE,1,1,1,1,21/22,0,0,2021/12/18 - Nottingham Forest,2021/12/18 - Nottingham Forest vs Hull City,Nottingham Forest,1.7,2,Hull City,0.7,1
+3,5,18/12/2021,Mark,-,TRUE,0,0,0,0,21/22,0,0,2021/12/18 - -,-,-,-,-,-,-,-
+3,5,18/12/2021,Oli,Blackburn Rovers,TRUE,4,3.5,1,1,21/22,0,0,2021/12/18 - Blackburn Rovers,2021/12/18 - Blackburn Rovers vs Birmingham City,Blackburn Rovers,4.3,4,Birmingham City,0.8,0
+3,5,18/12/2021,Simon,Nottingham Forest,TRUE,1,1,1,1,21/22,0,0,2021/12/18 - Nottingham Forest,2021/12/18 - Nottingham Forest vs Hull City,Nottingham Forest,1.7,2,Hull City,0.7,1
+3,6,26/12/2021,Aidan,Arsenal,FALSE,5,2.4,1,1,21/22,0,0,2021/12/26 - Arsenal,2021/12/26 - Norwich City vs Arsenal,Norwich City,0.1,0,Arsenal,2.5,5
+3,6,26/12/2021,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2021/12/26 - -,-,-,-,-,-,-,-
+3,6,26/12/2021,Dom,-,TRUE,0,0,0,0,21/22,0,0,2021/12/26 - -,-,-,-,-,-,-,-
+3,6,26/12/2021,Leo,West Ham United,TRUE,-1,0.4,0,0,21/22,0,0,2021/12/26 - West Ham United,2021/12/26 - West Ham United vs Southampton,West Ham United,1.6,2,Southampton,1.2,3
+3,6,26/12/2021,Marcus,Arsenal,FALSE,5,2.4,1,1,21/22,0,0,2021/12/26 - Arsenal,2021/12/26 - Norwich City vs Arsenal,Norwich City,0.1,0,Arsenal,2.5,5
+3,6,26/12/2021,Mark,-,TRUE,0,0,0,0,21/22,0,0,2021/12/26 - -,-,-,-,-,-,-,-
+3,6,26/12/2021,Oli,Tottenham Hotspur,TRUE,3,2.1,1,1,21/22,0,0,2021/12/26 - Tottenham Hotspur,2021/12/26 - Tottenham Hotspur vs Crystal Palace,Tottenham Hotspur,2.3,3,Crystal Palace,0.2,0
+3,6,26/12/2021,Simon,Chelsea,FALSE,2,2.2,1,1,21/22,0,0,2021/12/26 - Chelsea,2021/12/26 - Aston Villa vs Chelsea,Aston Villa,0.4,1,Chelsea,2.6,3
+3,7,29/12/2021,Aidan,Middlesbrough,FALSE,1,0.7,1,0,21/22,0,0,2021/12/29 - Middlesbrough,2021/12/29 - Blackpool vs Middlesbrough,Blackpool,1.5,1,Middlesbrough,2.2,2
+3,7,28/12/2021,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2021/12/28 - -,-,-,-,-,-,-,-
+3,7,28/12/2021,Dom,-,TRUE,0,0,0,0,21/22,0,0,2021/12/28 - -,-,-,-,-,-,-,-
+3,7,28/12/2021,Leo,-,TRUE,0,0,0,0,21/22,0,0,2021/12/28 - -,-,-,-,-,-,-,-
+3,7,30/12/2021,Marcus,Manchester United,TRUE,2,1.3,1,1,21/22,0,0,2021/12/30 - Manchester United,2021/12/30 - Manchester United vs Burnley,Manchester United,2.4,3,Burnley,1.1,1
+3,7,28/12/2021,Mark,-,TRUE,0,0,0,0,21/22,0,0,2021/12/28 - -,-,-,-,-,-,-,-
+3,7,30/12/2021,Oli,Manchester United,TRUE,2,1.3,1,1,21/22,0,0,2021/12/30 - Manchester United,2021/12/30 - Manchester United vs Burnley,Manchester United,2.4,3,Burnley,1.1,1
+3,7,30/12/2021,Simon,Bournemouth,TRUE,3,2.4,1,1,21/22,0,0,2021/12/30 - Bournemouth,2021/12/30 - Bournemouth vs Cardiff City,Bournemouth,3.2,3,Cardiff City,0.8,0
+3,8,01/01/2022,Aidan,Tottenham Hotspur,FALSE,1,1.9,1,1,21/22,40,1,2022/01/01 - Tottenham Hotspur,2022/01/01 - Watford vs Tottenham Hotspur,Watford,0.3,0,Tottenham Hotspur,2.2,1
+3,8,01/01/2022,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2022/01/01 - -,-,-,-,-,-,-,-
+3,8,01/01/2022,Dom,-,TRUE,0,0,0,0,21/22,0,0,2022/01/01 - -,-,-,-,-,-,-,-
+3,8,01/01/2022,Leo,-,TRUE,0,0,0,0,21/22,0,0,2022/01/01 - -,-,-,-,-,-,-,-
+3,8,02/01/2022,Marcus,West Bromwich Albion,TRUE,0,0.8,0,0,21/22,0,0,2022/01/02 - West Bromwich Albion,2022/01/02 - West Bromwich Albion vs Cardiff City,West Bromwich Albion,1.1,1,Cardiff City,0.3,1
+3,8,01/01/2022,Mark,-,TRUE,0,0,0,0,21/22,0,0,2022/01/01 - -,-,-,-,-,-,-,-
+3,8,02/01/2022,Oli,West Bromwich Albion,TRUE,0,0.8,0,0,21/22,0,0,2022/01/02 - West Bromwich Albion,2022/01/02 - West Bromwich Albion vs Cardiff City,West Bromwich Albion,1.1,1,Cardiff City,0.3,1
+3,8,02/01/2022,Simon,West Bromwich Albion,TRUE,0,0.8,0,0,21/22,0,0,2022/01/02 - West Bromwich Albion,2022/01/02 - West Bromwich Albion vs Cardiff City,West Bromwich Albion,1.1,1,Cardiff City,0.3,1
+4,1,15/01/2022,Aidan,Fulham,TRUE,4,1.6,1,1,21/22,-5,0,2022/01/15 - Fulham,2022/01/15 - Fulham vs Bristol City,Fulham,2.5,6,Bristol City,0.9,2
+4,1,15/01/2022,Birdy,Preston North End,TRUE,0,-0.7,0,0,21/22,-5,0,2022/01/15 - Preston North End,2022/01/15 - Preston North End vs Birmingham City,Preston North End,1.1,1,Birmingham City,1.8,1
+4,1,15/01/2022,Dom,Fulham,TRUE,4,1.6,1,1,21/22,-5,0,2022/01/15 - Fulham,2022/01/15 - Fulham vs Bristol City,Fulham,2.5,6,Bristol City,0.9,2
+4,1,15/01/2022,Leo,Bournemouth,FALSE,-1,-0.3,0,0,21/22,-5,0,2022/01/15 - Bournemouth,2022/01/15 - Luton Town vs Bournemouth,Luton Town,1.7,3,Bournemouth,1.4,2
+4,1,15/01/2022,Marcus,Fulham,TRUE,4,1.6,1,1,21/22,-5,0,2022/01/15 - Fulham,2022/01/15 - Fulham vs Bristol City,Fulham,2.5,6,Bristol City,0.9,2
+4,1,15/01/2022,Mark,Huddersfield Town,TRUE,0,1,0,1,21/22,-5,0,2022/01/15 - Huddersfield Town,2022/01/15 - Huddersfield Town vs Swansea City,Huddersfield Town,2.1,1,Swansea City,1.1,1
+4,1,15/01/2022,Oli,Middlesbrough,TRUE,1,1.4,1,1,21/22,-5,0,2022/01/15 - Middlesbrough,2022/01/15 - Middlesbrough vs Reading,Middlesbrough,2.2,2,Reading,0.8,1
+4,1,15/01/2022,Simon,Fulham,TRUE,4,1.6,1,1,21/22,-5,0,2022/01/15 - Fulham,2022/01/15 - Fulham vs Bristol City,Fulham,2.5,6,Bristol City,0.9,2
+4,2,22/01/2022,Aidan,Bournemouth,TRUE,-1,1.2,0,1,21/22,0,0,2022/01/22 - Bournemouth,2022/01/22 - Bournemouth vs Hull City,Bournemouth,1.7,0,Hull City,0.5,1
+4,2,22/01/2022,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2022/01/22 - -,-,-,-,-,-,-,-
+4,2,22/01/2022,Dom,Bournemouth,TRUE,-1,1.2,0,1,21/22,0,0,2022/01/22 - Bournemouth,2022/01/22 - Bournemouth vs Hull City,Bournemouth,1.7,0,Hull City,0.5,1
+4,2,22/01/2022,Leo,-,TRUE,0,0,0,0,21/22,0,0,2022/01/22 - -,-,-,-,-,-,-,-
+4,2,22/01/2022,Marcus,Bournemouth,TRUE,-1,1.2,0,1,21/22,0,0,2022/01/22 - Bournemouth,2022/01/22 - Bournemouth vs Hull City,Bournemouth,1.7,0,Hull City,0.5,1
+4,2,22/01/2022,Mark,-,TRUE,0,0,0,0,21/22,0,0,2022/01/22 - -,-,-,-,-,-,-,-
+4,2,22/01/2022,Oli,Manchester City,FALSE,0,1,0,1,21/22,0,0,2022/01/22 - Manchester City,2022/01/22 - Southampton vs Manchester City,Southampton,0.8,1,Manchester City,1.8,1
+4,2,22/01/2022,Simon,Bournemouth,TRUE,-1,1.2,0,1,21/22,0,0,2022/01/22 - Bournemouth,2022/01/22 - Bournemouth vs Hull City,Bournemouth,1.7,0,Hull City,0.5,1
+5,1,09/02/2022,Aidan,Manchester City,TRUE,2,1.5,1,1,21/22,-5,0,2022/02/09 - Manchester City,2022/02/09 - Manchester City vs Brentford,Manchester City,1.9,2,Brentford,0.4,0
+5,1,08/02/2022,Birdy,West Ham United,TRUE,1,0.5,1,0,21/22,-5,0,2022/02/08 - West Ham United,2022/02/08 - West Ham United vs Watford,West Ham United,0.8,1,Watford,0.3,0
+5,1,09/02/2022,Dom,Manchester City,TRUE,2,1.5,1,1,21/22,-5,0,2022/02/09 - Manchester City,2022/02/09 - Manchester City vs Brentford,Manchester City,1.9,2,Brentford,0.4,0
+5,1,09/02/2022,Leo,Manchester City,TRUE,2,1.5,1,1,21/22,-5,0,2022/02/09 - Manchester City,2022/02/09 - Manchester City vs Brentford,Manchester City,1.9,2,Brentford,0.4,0
+5,1,09/02/2022,Marcus,Manchester City,TRUE,2,1.5,1,1,21/22,-5,0,2022/02/09 - Manchester City,2022/02/09 - Manchester City vs Brentford,Manchester City,1.9,2,Brentford,0.4,0
+5,1,09/02/2022,Mark,Manchester City,TRUE,2,1.5,1,1,21/22,-5,0,2022/02/09 - Manchester City,2022/02/09 - Manchester City vs Brentford,Manchester City,1.9,2,Brentford,0.4,0
+5,1,08/02/2022,Oli,Luton Town,TRUE,1,1.8,1,1,21/22,-5,0,2022/02/08 - Luton Town,2022/02/08 - Luton Town vs Barnsley,Luton Town,2.7,2,Barnsley,0.9,1
+5,1,09/02/2022,Simon,Manchester City,TRUE,2,1.5,1,1,21/22,-5,0,2022/02/09 - Manchester City,2022/02/09 - Manchester City vs Brentford,Manchester City,1.9,2,Brentford,0.4,0
+5,2,12/02/2022,Aidan,Queens Park Rangers,FALSE,-1,-0.4,0,0,21/22,0,0,2022/02/12 - Queens Park Rangers,2022/02/12 - Barnsley vs Queens Park Rangers,Barnsley,1.1,1,Queens Park Rangers,0.7,0
+5,2,12/02/2022,Birdy,Manchester City,FALSE,4,4.2,1,1,21/22,0,0,2022/02/12 - Manchester City,2022/02/12 - Norwich City vs Manchester City,Norwich City,0.4,0,Manchester City,4.6,4
+5,2,12/02/2022,Dom,Middlesbrough,TRUE,3,1.9,1,1,21/22,0,0,2022/02/12 - Middlesbrough,2022/02/12 - Middlesbrough vs Derby County,Middlesbrough,2.5,4,Derby County,0.6,1
+5,2,12/02/2022,Leo,Queens Park Rangers,FALSE,-1,-0.4,0,0,21/22,0,0,2022/02/12 - Queens Park Rangers,2022/02/12 - Barnsley vs Queens Park Rangers,Barnsley,1.1,1,Queens Park Rangers,0.7,0
+5,2,12/02/2022,Marcus,Queens Park Rangers,FALSE,-1,-0.4,0,0,21/22,0,0,2022/02/12 - Queens Park Rangers,2022/02/12 - Barnsley vs Queens Park Rangers,Barnsley,1.1,1,Queens Park Rangers,0.7,0
+5,2,12/02/2022,Mark,Fulham,FALSE,1,1,1,1,21/22,0,0,2022/02/12 - Fulham,2022/02/12 - Hull City vs Fulham,Hull City,0.3,0,Fulham,1.3,1
+5,2,12/02/2022,Oli,Manchester City,FALSE,4,4.2,1,1,21/22,0,0,2022/02/12 - Manchester City,2022/02/12 - Norwich City vs Manchester City,Norwich City,0.4,0,Manchester City,4.6,4
+5,2,12/02/2022,Simon,Queens Park Rangers,FALSE,-1,-0.4,0,0,21/22,0,0,2022/02/12 - Queens Park Rangers,2022/02/12 - Barnsley vs Queens Park Rangers,Barnsley,1.1,1,Queens Park Rangers,0.7,0
+5,3,19/02/2022,Aidan,-,TRUE,0,0,0,0,21/22,0,0,2022/02/19 - -,-,-,-,-,-,-,-
+5,3,19/02/2022,Birdy,Fulham,TRUE,-1,0.2,0,0,21/22,0,0,2022/02/19 - Fulham,2022/02/19 - Fulham vs Huddersfield Town,Fulham,1.3,1,Huddersfield Town,1.1,2
+5,3,19/02/2022,Dom,Liverpool,TRUE,2,3,1,1,21/22,0,0,2022/02/19 - Liverpool,2022/02/19 - Liverpool vs Norwich City,Liverpool,3.6,3,Norwich City,0.6,1
+5,3,19/02/2022,Leo,-,TRUE,0,0,0,0,21/22,0,0,2022/02/19 - -,-,-,-,-,-,-,-
+5,3,19/02/2022,Marcus,-,TRUE,0,0,0,0,21/22,0,0,2022/02/19 - -,-,-,-,-,-,-,-
+5,3,19/02/2022,Mark,Liverpool,TRUE,2,3,1,1,21/22,0,0,2022/02/19 - Liverpool,2022/02/19 - Liverpool vs Norwich City,Liverpool,3.6,3,Norwich City,0.6,1
+5,3,19/02/2022,Oli,Arsenal,TRUE,1,1.1,1,1,21/22,0,0,2022/02/19 - Arsenal,2022/02/19 - Arsenal vs Brentford,Arsenal,1.7,2,Brentford,0.6,1
+5,3,19/02/2022,Simon,-,TRUE,0,0,0,0,21/22,0,0,2022/02/19 - -,-,-,-,-,-,-,-
+5,4,23/02/2022,Aidan,-,TRUE,0,0,0,0,21/22,0,0,2022/02/23 - -,-,-,-,-,-,-,-
+5,4,23/02/2022,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2022/02/23 - -,-,-,-,-,-,-,-
+5,4,23/02/2022,Dom,Tottenham Hotspur,FALSE,-1,-0.2,0,0,21/22,0,0,2022/02/23 - Tottenham Hotspur,2022/02/23 - Burnley vs Tottenham Hotspur,Burnley,0.9,1,Tottenham Hotspur,0.7,0
+5,4,23/02/2022,Leo,-,TRUE,0,0,0,0,21/22,0,0,2022/02/23 - -,-,-,-,-,-,-,-
+5,4,23/02/2022,Marcus,-,TRUE,0,0,0,0,21/22,0,0,2022/02/23 - -,-,-,-,-,-,-,-
+5,4,23/02/2022,Mark,Huddersfield Town,TRUE,1,-0.2,1,0,21/22,0,0,2022/02/23 - Huddersfield Town,2022/02/23 - Huddersfield Town vs Cardiff City,Huddersfield Town,0.9,2,Cardiff City,1.1,1
+5,4,23/02/2022,Oli,Fulham,TRUE,1,3.5,1,1,21/22,0,0,2022/02/23 - Fulham,2022/02/23 - Fulham vs P'borough United,Fulham,4,2,P'borough United,0.5,1
+5,4,23/02/2022,Simon,-,TRUE,0,0,0,0,21/22,0,0,2022/02/23 - -,-,-,-,-,-,-,-
+5,5,26/02/2022,Aidan,-,TRUE,0,0,0,0,21/22,0,0,2022/02/26 - -,-,-,-,-,-,-,-
+5,5,26/02/2022,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2022/02/26 - -,-,-,-,-,-,-,-
+5,5,26/02/2022,Dom,-,TRUE,0,0,0,0,21/22,0,0,2022/02/26 - -,-,-,-,-,-,-,-
+5,5,26/02/2022,Leo,-,TRUE,0,0,0,0,21/22,0,0,2022/02/26 - -,-,-,-,-,-,-,-
+5,5,26/02/2022,Marcus,-,TRUE,0,0,0,0,21/22,0,0,2022/02/26 - -,-,-,-,-,-,-,-
+5,5,26/02/2022,Mark,Manchester United,TRUE,0,2.2,0,1,21/22,0,0,2022/02/26 - Manchester United,2022/02/26 - Manchester United vs Watford,Manchester United,2.8,0,Watford,0.6,0
+5,5,26/02/2022,Oli,Manchester United,TRUE,0,2.2,0,1,21/22,0,0,2022/02/26 - Manchester United,2022/02/26 - Manchester United vs Watford,Manchester United,2.8,0,Watford,0.6,0
+5,5,26/02/2022,Simon,-,TRUE,0,0,0,0,21/22,0,0,2022/02/26 - -,-,-,-,-,-,-,-
+6,1,05/03/2022,Aidan,Liverpool,TRUE,1,1.1,1,1,21/22,-5,0,2022/03/05 - Liverpool,2022/03/05 - Liverpool vs West Ham United,Liverpool,2.4,1,West Ham United,1.3,0
+6,1,05/03/2022,Birdy,Reading,TRUE,-1,0.2,0,0,21/22,-5,0,2022/03/05 - Reading,2022/03/05 - Reading vs Millwall,Reading,0.7,0,Millwall,0.5,1
+6,1,05/03/2022,Dom,Liverpool,TRUE,1,1.1,1,1,21/22,-5,0,2022/03/05 - Liverpool,2022/03/05 - Liverpool vs West Ham United,Liverpool,2.4,1,West Ham United,1.3,0
+6,1,05/03/2022,Leo,Fulham,TRUE,2,0.4,1,0,21/22,-5,0,2022/03/05 - Fulham,2022/03/05 - Fulham vs Blackburn Rovers,Fulham,1.4,2,Blackburn Rovers,1,0
+6,1,05/03/2022,Marcus,Liverpool,TRUE,1,1.1,1,1,21/22,-5,0,2022/03/05 - Liverpool,2022/03/05 - Liverpool vs West Ham United,Liverpool,2.4,1,West Ham United,1.3,0
+6,1,05/03/2022,Mark,Newcastle United,TRUE,1,0.2,1,0,21/22,-5,0,2022/03/05 - Newcastle United,2022/03/05 - Newcastle United vs Brighton and Hove Albion,Newcastle United,1.7,2,Brighton and Hove Albion,1.5,1
+6,1,05/03/2022,Oli,Fulham,TRUE,2,0.4,1,0,21/22,-5,0,2022/03/05 - Fulham,2022/03/05 - Fulham vs Blackburn Rovers,Fulham,1.4,2,Blackburn Rovers,1,0
+6,1,05/03/2022,Simon,Queens Park Rangers,TRUE,-1,0.9,0,0,21/22,-5,0,2022/03/05 - Queens Park Rangers,2022/03/05 - Queens Park Rangers vs Cardiff City,Queens Park Rangers,1.7,1,Cardiff City,0.8,2
+6,2,12/03/2022,Aidan,Fulham,FALSE,0,0.3,0,0,21/22,0,0,2022/03/12 - Fulham,2022/03/12 - Barnsley vs Fulham,Barnsley,1.4,1,Fulham,1.7,1
+6,2,12/03/2022,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2022/03/12 - -,-,-,-,-,-,-,-
+6,2,12/03/2022,Dom,Fulham,FALSE,0,0.3,0,0,21/22,0,0,2022/03/12 - Fulham,2022/03/12 - Barnsley vs Fulham,Barnsley,1.4,1,Fulham,1.7,1
+6,2,12/03/2022,Leo,Nottingham Forest,TRUE,4,0.1,1,0,21/22,0,0,2022/03/12 - Nottingham Forest,2022/03/12 - Nottingham Forest vs Reading,Nottingham Forest,0.9,4,Reading,0.8,0
+6,2,12/03/2022,Marcus,Nottingham Forest,TRUE,4,0.1,1,0,21/22,0,0,2022/03/12 - Nottingham Forest,2022/03/12 - Nottingham Forest vs Reading,Nottingham Forest,0.9,4,Reading,0.8,0
+6,2,12/03/2022,Mark,Fulham,FALSE,0,0.3,0,0,21/22,0,0,2022/03/12 - Fulham,2022/03/12 - Barnsley vs Fulham,Barnsley,1.4,1,Fulham,1.7,1
+6,2,12/03/2022,Oli,Nottingham Forest,TRUE,4,0.1,1,0,21/22,0,0,2022/03/12 - Nottingham Forest,2022/03/12 - Nottingham Forest vs Reading,Nottingham Forest,0.9,4,Reading,0.8,0
+6,2,12/03/2022,Simon,-,TRUE,0,0,0,0,21/22,0,0,2022/03/12 - -,-,-,-,-,-,-,-
+6,3,15/03/2022,Aidan,-,TRUE,0,0,0,0,21/22,0,0,2022/03/15 - -,-,-,-,-,-,-,-
+6,3,15/03/2022,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2022/03/15 - -,-,-,-,-,-,-,-
+6,3,15/03/2022,Dom,-,TRUE,0,0,0,0,21/22,0,0,2022/03/15 - -,-,-,-,-,-,-,-
+6,3,15/03/2022,Leo,Bournemouth,TRUE,0,0.4,0,0,21/22,0,0,2022/03/15 - Bournemouth,2022/03/15 - Bournemouth vs Reading,Bournemouth,0.9,1,Reading,0.5,1
+6,3,15/03/2022,Marcus,Bournemouth,TRUE,0,0.4,0,0,21/22,0,0,2022/03/15 - Bournemouth,2022/03/15 - Bournemouth vs Reading,Bournemouth,0.9,1,Reading,0.5,1
+6,3,15/03/2022,Mark,-,TRUE,0,0,0,0,21/22,0,0,2022/03/15 - -,-,-,-,-,-,-,-
+6,3,15/03/2022,Oli,Bournemouth,TRUE,0,0.4,0,0,21/22,0,0,2022/03/15 - Bournemouth,2022/03/15 - Bournemouth vs Reading,Bournemouth,0.9,1,Reading,0.5,1
+6,3,15/03/2022,Simon,-,TRUE,0,0,0,0,21/22,0,0,2022/03/15 - -,-,-,-,-,-,-,-
+7,1,19/03/2022,Aidan,West Bromwich Albion,FALSE,0,0.3,0,0,21/22,-5,0,2022/03/19 - West Bromwich Albion,2022/03/19 - Bristol City vs West Bromwich Albion,Bristol City,0.9,2,West Bromwich Albion,1.2,2
+7,1,19/03/2022,Birdy,Swansea City,TRUE,0,-2.1,0,0,21/22,-5,0,2022/03/19 - Swansea City,2022/03/19 - Swansea City vs Birmingham City,Swansea City,0.6,0,Birmingham City,2.7,0
+7,1,19/03/2022,Dom,Sheffield United,TRUE,2,1.7,1,1,21/22,-5,0,2022/03/19 - Sheffield United,2022/03/19 - Sheffield United vs Barnsley,Sheffield United,2.6,2,Barnsley,0.9,0
+7,1,19/03/2022,Leo,Swansea City,TRUE,0,-2.1,0,0,21/22,-5,0,2022/03/19 - Swansea City,2022/03/19 - Swansea City vs Birmingham City,Swansea City,0.6,0,Birmingham City,2.7,0
+7,1,19/03/2022,Marcus,Sheffield United,TRUE,2,1.7,1,1,21/22,-5,0,2022/03/19 - Sheffield United,2022/03/19 - Sheffield United vs Barnsley,Sheffield United,2.6,2,Barnsley,0.9,0
+7,1,19/03/2022,Mark,Sheffield United,TRUE,2,1.7,1,1,21/22,-5,0,2022/03/19 - Sheffield United,2022/03/19 - Sheffield United vs Barnsley,Sheffield United,2.6,2,Barnsley,0.9,0
+7,1,19/03/2022,Oli,Swansea City,TRUE,0,-2.1,0,0,21/22,-5,0,2022/03/19 - Swansea City,2022/03/19 - Swansea City vs Birmingham City,Swansea City,0.6,0,Birmingham City,2.7,0
+7,1,19/03/2022,Simon,Blackburn Rovers,FALSE,-1,0.1,0,0,21/22,-5,0,2022/03/19 - Blackburn Rovers,2022/03/19 - Reading vs Blackburn Rovers,Reading,1,1,Blackburn Rovers,1.1,0
+7,2,02/04/2022,Aidan,-,TRUE,0,0,0,0,21/22,0,0,2022/04/02 - -,-,-,-,-,-,-,-
+7,2,02/04/2022,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2022/04/02 - -,-,-,-,-,-,-,-
+7,2,02/04/2022,Dom,Liverpool,TRUE,2,1.6,1,1,21/22,0,0,2022/04/02 - Liverpool,2022/04/02 - Liverpool vs Watford,Liverpool,2.2,2,Watford,0.6,0
+7,2,02/04/2022,Leo,-,TRUE,0,0,0,0,21/22,0,0,2022/04/02 - -,-,-,-,-,-,-,-
+7,2,02/04/2022,Marcus,Liverpool,TRUE,2,1.6,1,1,21/22,0,0,2022/04/02 - Liverpool,2022/04/02 - Liverpool vs Watford,Liverpool,2.2,2,Watford,0.6,0
+7,2,02/04/2022,Mark,Liverpool,TRUE,2,1.6,1,1,21/22,0,0,2022/04/02 - Liverpool,2022/04/02 - Liverpool vs Watford,Liverpool,2.2,2,Watford,0.6,0
+7,2,02/04/2022,Oli,-,TRUE,0,0,0,0,21/22,0,0,2022/04/02 - -,-,-,-,-,-,-,-
+7,2,02/04/2022,Simon,-,TRUE,0,0,0,0,21/22,0,0,2022/04/02 - -,-,-,-,-,-,-,-
+7,3,09/04/2022,Aidan,-,TRUE,0,0,0,0,21/22,0,0,2022/04/09 - -,-,-,-,-,-,-,-
+7,3,09/04/2022,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2022/04/09 - -,-,-,-,-,-,-,-
+7,3,09/04/2022,Dom,Nottingham Forest,TRUE,2,0.3,1,0,21/22,0,0,2022/04/09 - Nottingham Forest,2022/04/09 - Nottingham Forest vs Birmingham City,Nottingham Forest,1.3,2,Birmingham City,1,0
+7,3,09/04/2022,Leo,-,TRUE,0,0,0,0,21/22,0,0,2022/04/09 - -,-,-,-,-,-,-,-
+7,3,09/04/2022,Marcus,Nottingham Forest,TRUE,2,0.3,1,0,21/22,0,0,2022/04/09 - Nottingham Forest,2022/04/09 - Nottingham Forest vs Birmingham City,Nottingham Forest,1.3,2,Birmingham City,1,0
+7,3,09/04/2022,Mark,Swansea City,TRUE,1,-0.5,1,0,21/22,0,0,2022/04/09 - Swansea City,2022/04/09 - Swansea City vs Derby County,Swansea City,0.9,2,Derby County,1.4,1
+7,3,09/04/2022,Oli,-,TRUE,0,0,0,0,21/22,0,0,2022/04/09 - -,-,-,-,-,-,-,-
+7,3,09/04/2022,Simon,-,TRUE,0,0,0,0,21/22,0,0,2022/04/09 - -,-,-,-,-,-,-,-
+7,4,16/04/2022,Aidan,-,TRUE,0,0,0,0,21/22,0,0,2022/04/16 - -,-,-,-,-,-,-,-
+7,4,16/04/2022,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2022/04/16 - -,-,-,-,-,-,-,-
+7,4,16/04/2022,Dom,Manchester United,TRUE,1,0.4,1,0,21/22,0,0,2022/04/16 - Manchester United,2022/04/16 - Manchester United vs Norwich City,Manchester United,1.9,3,Norwich City,1.5,2
+7,4,16/04/2022,Leo,-,TRUE,0,0,0,0,21/22,0,0,2022/04/16 - -,-,-,-,-,-,-,-
+7,4,16/04/2022,Marcus,Manchester United,TRUE,1,0.4,1,0,21/22,0,0,2022/04/16 - Manchester United,2022/04/16 - Manchester United vs Norwich City,Manchester United,1.9,3,Norwich City,1.5,2
+7,4,16/04/2022,Mark,Tottenham Hotspur,TRUE,-1,-0.1,0,0,21/22,0,0,2022/04/16 - Tottenham Hotspur,2022/04/16 - Tottenham Hotspur vs Brighton and Hove Albion,Tottenham Hotspur,0.5,0,Brighton and Hove Albion,0.6,1
+7,4,16/04/2022,Oli,-,TRUE,0,0,0,0,21/22,0,0,2022/04/16 - -,-,-,-,-,-,-,-
+7,4,16/04/2022,Simon,-,TRUE,0,0,0,0,21/22,0,0,2022/04/16 - -,-,-,-,-,-,-,-
+7,5,23/04/2022,Aidan,-,TRUE,0,0,0,0,21/22,0,0,2022/04/23 - -,-,-,-,-,-,-,-
+7,5,23/04/2022,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2022/04/23 - -,-,-,-,-,-,-,-
+7,5,23/04/2022,Dom,Manchester City,TRUE,4,3.1,1,1,21/22,0,0,2022/04/23 - Manchester City,2022/04/23 - Manchester City vs Watford,Manchester City,3.6,5,Watford,0.5,1
+7,5,23/04/2022,Leo,-,TRUE,0,0,0,0,21/22,0,0,2022/04/23 - -,-,-,-,-,-,-,-
+7,5,23/04/2022,Marcus,Manchester City,TRUE,4,3.1,1,1,21/22,0,0,2022/04/23 - Manchester City,2022/04/23 - Manchester City vs Watford,Manchester City,3.6,5,Watford,0.5,1
+7,5,23/04/2022,Mark,-,TRUE,0,0,0,0,21/22,0,0,2022/04/23 - -,-,-,-,-,-,-,-
+7,5,23/04/2022,Oli,-,TRUE,0,0,0,0,21/22,0,0,2022/04/23 - -,-,-,-,-,-,-,-
+7,5,23/04/2022,Simon,-,TRUE,0,0,0,0,21/22,0,0,2022/04/23 - -,-,-,-,-,-,-,-
+7,6,30/04/2022,Aidan,-,TRUE,0,0,0,0,21/22,0,0,2022/04/30 - -,-,-,-,-,-,-,-
+7,6,30/04/2022,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2022/04/30 - -,-,-,-,-,-,-,-
+7,6,30/04/2022,Dom,Millwall,TRUE,3,0.3,1,0,21/22,0,0,2022/04/30 - Millwall,2022/04/30 - Millwall vs P'borough United,Millwall,1.8,3,P'borough United,1.5,0
+7,6,30/04/2022,Leo,-,TRUE,0,0,0,0,21/22,0,0,2022/04/30 - -,-,-,-,-,-,-,-
+7,6,30/04/2022,Marcus,Millwall,TRUE,3,0.3,1,0,21/22,0,0,2022/04/30 - Millwall,2022/04/30 - Millwall vs P'borough United,Millwall,1.8,3,P'borough United,1.5,0
+7,6,30/04/2022,Mark,-,TRUE,0,0,0,0,21/22,0,0,2022/04/30 - -,-,-,-,-,-,-,-
+7,6,30/04/2022,Oli,-,TRUE,0,0,0,0,21/22,0,0,2022/04/30 - -,-,-,-,-,-,-,-
+7,6,30/04/2022,Simon,-,TRUE,0,0,0,0,21/22,0,0,2022/04/30 - -,-,-,-,-,-,-,-
+7,6,07/05/2022,Aidan,-,TRUE,0,0,0,0,21/22,0,0,2022/05/07 - -,-,-,-,-,-,-,-
+7,7,07/05/2022,Birdy,-,TRUE,0,0,0,0,21/22,0,0,2022/05/07 - -,-,-,-,-,-,-,-
+7,7,07/05/2022,Dom,Chelsea,TRUE,0,-0.3,0,0,21/22,0,0,2022/05/07 - Chelsea,2022/05/07 - Chelsea vs Wolves,Chelsea,1.7,2,Wolves,2,2
+7,7,07/05/2022,Leo,-,TRUE,0,0,0,0,21/22,0,0,2022/05/07 - -,-,-,-,-,-,-,-
+7,7,07/05/2022,Marcus,West Bromwich Albion,TRUE,4,4.2,1,1,21/22,160,1,2022/05/07 - West Bromwich Albion,2022/05/07 - West Bromwich Albion vs Barnsley,West Bromwich Albion,4.5,4,Barnsley,0.3,0
+7,7,07/05/2022,Mark,-,TRUE,0,0,0,0,21/22,0,0,2022/05/07 - -,-,-,-,-,-,-,-
+7,7,07/05/2022,Oli,-,TRUE,0,0,0,0,21/22,0,0,2022/05/07 - -,-,-,-,-,-,-,-
+7,7,07/05/2022,Simon,-,TRUE,0,0,0,0,21/22,0,0,2022/05/07 - -,-,-,-,-,-,-,-
+8,1,06/08/2022,Aidan,Liverpool,FALSE,0,0,0,0,22/23,-5,0,2022/08/06 - Liverpool,2022/08/06 - Fulham vs Liverpool,Fulham,1.2,2,Liverpool,1.2,2
+8,1,06/08/2022,Birdy,Norwich City,TRUE,0,0.6,0,0,22/23,-5,0,2022/08/06 - Norwich City,2022/08/06 - Norwich City vs Wigan Athletic,Norwich City,1.2,1,Wigan Athletic,0.6,1
+8,1,06/08/2022,Dom,Liverpool,FALSE,0,0,0,0,22/23,-5,0,2022/08/06 - Liverpool,2022/08/06 - Fulham vs Liverpool,Fulham,1.2,2,Liverpool,1.2,2
+8,1,06/08/2022,Leo,Tottenham Hotspur,TRUE,3,1,1,1,22/23,-5,0,2022/08/06 - Tottenham Hotspur,2022/08/06 - Tottenham Hotspur vs Southampton,Tottenham Hotspur,1.5,4,Southampton,0.5,1
+8,1,06/08/2022,Marcus,Burnley,TRUE,0,-0.8,0,0,22/23,-5,0,2022/08/06 - Burnley,2022/08/06 - Burnley vs Luton Town,Burnley,0.5,1,Luton Town,1.3,1
+8,1,06/08/2022,Mark,Newcastle United,TRUE,2,1.4,1,1,22/23,-5,0,2022/08/06 - Newcastle United,2022/08/06 - Newcastle United vs Nottingham Forest,Newcastle United,1.7,2,Nottingham Forest,0.3,0
+8,1,06/08/2022,Oli,Tottenham Hotspur,TRUE,3,1,1,1,22/23,-5,0,2022/08/06 - Tottenham Hotspur,2022/08/06 - Tottenham Hotspur vs Southampton,Tottenham Hotspur,1.5,4,Southampton,0.5,1
+8,1,06/08/2022,Simon,Tottenham Hotspur,TRUE,3,1,1,1,22/23,-5,0,2022/08/06 - Tottenham Hotspur,2022/08/06 - Tottenham Hotspur vs Southampton,Tottenham Hotspur,1.5,4,Southampton,0.5,1
+8,2,13/08/2022,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2022/08/13 - -,-,-,-,-,-,-,-
+8,2,13/08/2022,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2022/08/13 - -,-,-,-,-,-,-,-
+8,2,13/08/2022,Dom,-,TRUE,0,0,0,0,22/23,0,0,2022/08/13 - -,-,-,-,-,-,-,-
+8,2,13/08/2022,Leo,Manchester City,TRUE,4,1.6,1,1,22/23,0,0,2022/08/13 - Manchester City,2022/08/13 - Manchester City vs Bournemouth,Manchester City,1.7,4,Bournemouth,0.1,0
+8,2,13/08/2022,Marcus,-,TRUE,0,0,0,0,22/23,0,0,2022/08/13 - -,-,-,-,-,-,-,-
+8,2,13/08/2022,Mark,Manchester City,TRUE,4,1.6,1,1,22/23,0,0,2022/08/13 - Manchester City,2022/08/13 - Manchester City vs Bournemouth,Manchester City,1.7,4,Bournemouth,0.1,0
+8,2,13/08/2022,Oli,Manchester City,TRUE,4,1.6,1,1,22/23,0,0,2022/08/13 - Manchester City,2022/08/13 - Manchester City vs Bournemouth,Manchester City,1.7,4,Bournemouth,0.1,0
+8,2,13/08/2022,Simon,Arsenal,TRUE,2,2.2,1,1,22/23,0,0,2022/08/13 - Arsenal,2022/08/13 - Arsenal vs Leicester City,Arsenal,2.7,4,Leicester City,0.5,2
+8,3,20/08/2022,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2022/08/20 - -,-,-,-,-,-,-,-
+8,3,20/08/2022,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2022/08/20 - -,-,-,-,-,-,-,-
+8,3,20/08/2022,Dom,-,TRUE,0,0,0,0,22/23,0,0,2022/08/20 - -,-,-,-,-,-,-,-
+8,3,20/08/2022,Leo,Arsenal,FALSE,3,1,1,1,22/23,0,0,2022/08/20 - Arsenal,2022/08/20 - Bournemouth vs Arsenal,Bournemouth,0.3,0,Arsenal,1.3,3
+8,3,20/08/2022,Marcus,-,TRUE,0,0,0,0,22/23,0,0,2022/08/20 - -,-,-,-,-,-,-,-
+8,3,20/08/2022,Mark,Tottenham Hotspur,TRUE,1,1,1,1,22/23,0,0,2022/08/20 - Tottenham Hotspur,2022/08/20 - Tottenham Hotspur vs Wolves,Tottenham Hotspur,1.7,1,Wolves,0.7,0
+8,3,20/08/2022,Oli,Arsenal,FALSE,3,1,1,1,22/23,0,0,2022/08/20 - Arsenal,2022/08/20 - Bournemouth vs Arsenal,Bournemouth,0.3,0,Arsenal,1.3,3
+8,3,20/08/2022,Simon,Birmingham City,TRUE,-1,0.5,0,0,22/23,0,0,2022/08/20 - Birmingham City,2022/08/20 - Birmingham City vs Wigan Athletic,Birmingham City,0.9,0,Wigan Athletic,0.4,1
+8,4,27/08/2022,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2022/08/27 - -,-,-,-,-,-,-,-
+8,4,27/08/2022,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2022/08/27 - -,-,-,-,-,-,-,-
+8,4,27/08/2022,Dom,-,TRUE,0,0,0,0,22/23,0,0,2022/08/27 - -,-,-,-,-,-,-,-
+8,4,27/08/2022,Leo,Watford,TRUE,-1,0,0,0,22/23,0,0,2022/08/27 - Watford,2022/08/27 - Watford vs Queens Park Rangers,Watford,1.1,2,Queens Park Rangers,1.1,3
+8,4,27/08/2022,Marcus,-,TRUE,0,0,0,0,22/23,0,0,2022/08/27 - -,-,-,-,-,-,-,-
+8,4,27/08/2022,Mark,Arsenal,TRUE,1,1.8,1,1,22/23,0,0,2022/08/27 - Arsenal,2022/08/27 - Arsenal vs Fulham,Arsenal,2.6,2,Fulham,0.8,1
+8,4,27/08/2022,Oli,Liverpool,TRUE,9,3,1,1,22/23,0,0,2022/08/27 - Liverpool,2022/08/27 - Liverpool vs Bournemouth,Liverpool,3.3,9,Bournemouth,0.3,0
+8,4,27/08/2022,Simon,-,TRUE,0,0,0,0,22/23,0,0,2022/08/27 - -,-,-,-,-,-,-,-
+8,5,31/08/2022,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2022/08/31 - -,-,-,-,-,-,-,-
+8,5,31/08/2022,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2022/08/31 - -,-,-,-,-,-,-,-
+8,5,31/08/2022,Dom,-,TRUE,0,0,0,0,22/23,0,0,2022/08/31 - -,-,-,-,-,-,-,-
+8,5,31/08/2022,Leo,-,TRUE,0,0,0,0,22/23,0,0,2022/08/31 - -,-,-,-,-,-,-,-
+8,5,31/08/2022,Marcus,-,TRUE,0,0,0,0,22/23,0,0,2022/08/31 - -,-,-,-,-,-,-,-
+8,5,31/08/2022,Mark,Liverpool,TRUE,1,0.8,1,0,22/23,0,0,2022/08/31 - Liverpool,2022/08/31 - Liverpool vs Newcastle United,Liverpool,1.5,2,Newcastle United,0.7,1
+8,5,31/08/2022,Oli,Bristol City,TRUE,2,0,1,0,22/23,0,0,2022/08/31 - Bristol City,2022/08/31 - Bristol City vs Huddersfield Town,Bristol City,1.2,2,Huddersfield Town,1.2,0
+8,5,31/08/2022,Simon,-,TRUE,0,0,0,0,22/23,0,0,2022/08/31 - -,-,-,-,-,-,-,-
+8,6,03/09/2022,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2022/09/03 - -,-,-,-,-,-,-,-
+8,6,03/09/2022,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2022/09/03 - -,-,-,-,-,-,-,-
+8,6,03/09/2022,Dom,-,TRUE,0,0,0,0,22/23,0,0,2022/09/03 - -,-,-,-,-,-,-,-
+8,6,03/09/2022,Leo,-,TRUE,0,0,0,0,22/23,0,0,2022/09/03 - -,-,-,-,-,-,-,-
+8,6,03/09/2022,Marcus,-,TRUE,0,0,0,0,22/23,0,0,2022/09/03 - -,-,-,-,-,-,-,-
+8,6,03/09/2022,Mark,Norwich City,TRUE,3,1.3,1,1,22/23,0,0,2022/09/03 - Norwich City,2022/09/03 - Norwich City vs Coventry City,Norwich City,2,3,Coventry City,0.7,0
+8,6,03/09/2022,Oli,Norwich City,TRUE,3,1.3,1,1,22/23,0,0,2022/09/03 - Norwich City,2022/09/03 - Norwich City vs Coventry City,Norwich City,2,3,Coventry City,0.7,0
+8,6,03/09/2022,Simon,-,TRUE,0,0,0,0,22/23,0,0,2022/09/03 - -,-,-,-,-,-,-,-
+8,7,17/09/2022,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2022/09/17 - -,-,-,-,-,-,-,-
+8,7,17/09/2022,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2022/09/17 - -,-,-,-,-,-,-,-
+8,7,17/09/2022,Dom,-,TRUE,0,0,0,0,22/23,0,0,2022/09/17 - -,-,-,-,-,-,-,-
+8,7,17/09/2022,Leo,-,TRUE,0,0,0,0,22/23,0,0,2022/09/17 - -,-,-,-,-,-,-,-
+8,7,17/09/2022,Marcus,-,TRUE,0,0,0,0,22/23,0,0,2022/09/17 - -,-,-,-,-,-,-,-
+8,7,17/09/2022,Mark,Burnley,TRUE,1,0,1,0,22/23,40,1,2022/09/17 - Burnley,2022/09/17 - Burnley vs Bristol City,Burnley,1.1,2,Bristol City,1.1,1
+8,7,17/09/2022,Oli,Newcastle United,TRUE,0,1.2,0,1,22/23,0,0,2022/09/17 - Newcastle United,2022/09/17 - Newcastle United vs Bournemouth,Newcastle United,1.9,1,Bournemouth,0.7,1
+8,7,17/09/2022,Simon,-,TRUE,0,0,0,0,22/23,0,0,2022/09/17 - -,-,-,-,-,-,-,-
+9,1,01/10/2022,Aidan,Sheffield United,TRUE,0,0.2,0,0,22/23,-5,0,2022/10/01 - Sheffield United,2022/10/01 - Sheffield United vs Birmingham City,Sheffield United,0.9,1,Birmingham City,0.7,1
+9,1,01/10/2022,Birdy,Reading,TRUE,2,1,1,1,22/23,-5,0,2022/10/01 - Reading,2022/10/01 - Reading vs Huddersfield Town,Reading,1.7,3,Huddersfield Town,0.7,1
+9,1,01/10/2022,Dom,Chelsea,FALSE,1,0.7,1,0,22/23,-5,0,2022/10/01 - Chelsea,2022/10/01 - Crystal Palace vs Chelsea,Crystal Palace,0.4,1,Chelsea,1.1,2
+9,1,01/10/2022,Leo,Sheffield United,TRUE,0,0.2,0,0,22/23,-5,0,2022/10/01 - Sheffield United,2022/10/01 - Sheffield United vs Birmingham City,Sheffield United,0.9,1,Birmingham City,0.7,1
+9,1,01/10/2022,Marcus,Reading,TRUE,2,1,1,1,22/23,-5,0,2022/10/01 - Reading,2022/10/01 - Reading vs Huddersfield Town,Reading,1.7,3,Huddersfield Town,0.7,1
+9,1,01/10/2022,Mark,Sheffield United,TRUE,0,0.2,0,0,22/23,-5,0,2022/10/01 - Sheffield United,2022/10/01 - Sheffield United vs Birmingham City,Sheffield United,0.9,1,Birmingham City,0.7,1
+9,1,01/10/2022,Oli,Sheffield United,TRUE,0,0.2,0,0,22/23,-5,0,2022/10/01 - Sheffield United,2022/10/01 - Sheffield United vs Birmingham City,Sheffield United,0.9,1,Birmingham City,0.7,1
+9,1,01/10/2022,Simon,Sheffield United,TRUE,0,0.2,0,0,22/23,-5,0,2022/10/01 - Sheffield United,2022/10/01 - Sheffield United vs Birmingham City,Sheffield United,0.9,1,Birmingham City,0.7,1
+9,2,08/10/2022,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2022/10/08 - -,-,-,-,-,-,-,-
+9,2,08/10/2022,Birdy,Norwich City,TRUE,-1,1.1,0,1,22/23,0,0,2022/10/08 - Norwich City,2022/10/08 - Norwich City vs Preston North End,Norwich City,2,2,Preston North End,0.9,3
+9,2,08/10/2022,Dom,Manchester City,TRUE,4,2.2,1,1,22/23,0,0,2022/10/08 - Manchester City,2022/10/08 - Manchester City vs Southampton,Manchester City,2.4,4,Southampton,0.2,0
+9,2,08/10/2022,Leo,-,TRUE,0,0,0,0,22/23,0,0,2022/10/08 - -,-,-,-,-,-,-,-
+9,2,08/10/2022,Marcus,Manchester City,TRUE,4,2.2,1,1,22/23,0,0,2022/10/08 - Manchester City,2022/10/08 - Manchester City vs Southampton,Manchester City,2.4,4,Southampton,0.2,0
+9,2,08/10/2022,Mark,-,TRUE,0,0,0,0,22/23,0,0,2022/10/08 - -,-,-,-,-,-,-,-
+9,2,08/10/2022,Oli,-,TRUE,0,0,0,0,22/23,0,0,2022/10/08 - -,-,-,-,-,-,-,-
+9,2,08/10/2022,Simon,-,TRUE,0,0,0,0,22/23,0,0,2022/10/08 - -,-,-,-,-,-,-,-
+9,3,15/10/2022,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2022/10/15 - -,-,-,-,-,-,-,-
+9,3,15/10/2022,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2022/10/15 - -,-,-,-,-,-,-,-
+9,3,15/10/2022,Dom,Tottenham Hotspur,TRUE,2,1.8,1,1,22/23,40,1,2022/10/15 - Tottenham Hotspur,2022/10/15 - Tottenham Hotspur vs Everton,Tottenham Hotspur,2.2,2,Everton,0.4,0
+9,3,15/10/2022,Leo,-,TRUE,0,0,0,0,22/23,0,0,2022/10/15 - -,-,-,-,-,-,-,-
+9,3,15/10/2022,Marcus,Sheffield United,TRUE,0,2.1,0,1,22/23,0,0,2022/10/15 - Sheffield United,2022/10/15 - Sheffield United vs Blackpool,Sheffield United,3.3,3,Blackpool,1.2,3
+9,3,15/10/2022,Mark,-,TRUE,0,0,0,0,22/23,0,0,2022/10/15 - -,-,-,-,-,-,-,-
+9,3,15/10/2022,Oli,-,TRUE,0,0,0,0,22/23,0,0,2022/10/15 - -,-,-,-,-,-,-,-
+9,3,15/10/2022,Simon,-,TRUE,0,0,0,0,22/23,0,0,2022/10/15 - -,-,-,-,-,-,-,-
+10,1,22/10/2022,Aidan,Manchester City,TRUE,2,1.1,1,1,22/23,-5,0,2022/10/22 - Manchester City,2022/10/22 - Manchester City vs Brighton and Hove Albion,Manchester City,1.6,3,Brighton and Hove Albion,0.5,1
+10,1,22/10/2022,Birdy,Queens Park Rangers,TRUE,1,-0.6,1,0,22/23,-5,0,2022/10/22 - Queens Park Rangers,2022/10/22 - Queens Park Rangers vs Wigan Athletic,Queens Park Rangers,0.8,2,Wigan Athletic,1.4,1
+10,1,22/10/2022,Dom,Manchester City,TRUE,2,1.1,1,1,22/23,-5,0,2022/10/22 - Manchester City,2022/10/22 - Manchester City vs Brighton and Hove Albion,Manchester City,1.6,3,Brighton and Hove Albion,0.5,1
+10,1,22/10/2022,Leo,Manchester City,TRUE,2,1.1,1,1,22/23,-5,0,2022/10/22 - Manchester City,2022/10/22 - Manchester City vs Brighton and Hove Albion,Manchester City,1.6,3,Brighton and Hove Albion,0.5,1
+10,1,22/10/2022,Marcus,Queens Park Rangers,TRUE,1,-0.6,1,0,22/23,-5,0,2022/10/22 - Queens Park Rangers,2022/10/22 - Queens Park Rangers vs Wigan Athletic,Queens Park Rangers,0.8,2,Wigan Athletic,1.4,1
+10,1,22/10/2022,Mark,Manchester City,TRUE,2,1.1,1,1,22/23,-5,0,2022/10/22 - Manchester City,2022/10/22 - Manchester City vs Brighton and Hove Albion,Manchester City,1.6,3,Brighton and Hove Albion,0.5,1
+10,1,22/10/2022,Oli,Manchester City,TRUE,2,1.1,1,1,22/23,-5,0,2022/10/22 - Manchester City,2022/10/22 - Manchester City vs Brighton and Hove Albion,Manchester City,1.6,3,Brighton and Hove Albion,0.5,1
+10,1,22/10/2022,Simon,Manchester City,TRUE,2,1.1,1,1,22/23,-5,0,2022/10/22 - Manchester City,2022/10/22 - Manchester City vs Brighton and Hove Albion,Manchester City,1.6,3,Brighton and Hove Albion,0.5,1
+10,2,29/10/2022,Aidan,Liverpool,TRUE,-1,-0.1,0,0,22/23,0,0,2022/10/29 - Liverpool,2022/10/29 - Liverpool vs Leeds United,Liverpool,1.7,1,Leeds United,1.8,2
+10,2,29/10/2022,Birdy,Newcastle United,TRUE,4,3,1,1,22/23,0,0,2022/10/29 - Newcastle United,2022/10/29 - Newcastle United vs Aston Villa,Newcastle United,3.4,4,Aston Villa,0.4,0
+10,2,29/10/2022,Dom,Liverpool,TRUE,-1,-0.1,0,0,22/23,0,0,2022/10/29 - Liverpool,2022/10/29 - Liverpool vs Leeds United,Liverpool,1.7,1,Leeds United,1.8,2
+10,2,29/10/2022,Leo,Tottenham Hotspur,FALSE,1,1.5,1,1,22/23,0,0,2022/10/29 - Tottenham Hotspur,2022/10/29 - Bournemouth vs Tottenham Hotspur,Bournemouth,0.5,2,Tottenham Hotspur,2,3
+10,2,29/10/2022,Marcus,Manchester City,FALSE,1,0.3,1,0,22/23,0,0,2022/10/29 - Manchester City,2022/10/29 - Leicester City vs Manchester City,Leicester City,0.7,0,Manchester City,1,1
+10,2,29/10/2022,Mark,Newcastle United,TRUE,4,3,1,1,22/23,0,0,2022/10/29 - Newcastle United,2022/10/29 - Newcastle United vs Aston Villa,Newcastle United,3.4,4,Aston Villa,0.4,0
+10,2,29/10/2022,Oli,Burnley,TRUE,1,0.6,1,0,22/23,0,0,2022/10/29 - Burnley,2022/10/29 - Burnley vs Reading,Burnley,1.2,2,Reading,0.6,1
+10,2,29/10/2022,Simon,Newcastle United,TRUE,4,3,1,1,22/23,0,0,2022/10/29 - Newcastle United,2022/10/29 - Newcastle United vs Aston Villa,Newcastle United,3.4,4,Aston Villa,0.4,0
+10,3,05/11/2022,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2022/11/05 - -,-,-,-,-,-,-,-
+10,3,05/11/2022,Birdy,Manchester City,TRUE,1,1.1,1,1,22/23,0,0,2022/11/05 - Manchester City,2022/11/05 - Manchester City vs Fulham,Manchester City,2.1,2,Fulham,1,1
+10,3,05/11/2022,Dom,-,TRUE,0,0,0,0,22/23,0,0,2022/11/05 - -,-,-,-,-,-,-,-
+10,3,05/11/2022,Leo,Blackburn Rovers,TRUE,1,0.4,1,0,22/23,0,0,2022/11/05 - Blackburn Rovers,2022/11/05 - Blackburn Rovers vs Huddersfield Town,Blackburn Rovers,0.8,1,Huddersfield Town,0.4,0
+10,3,05/11/2022,Marcus,Blackburn Rovers,TRUE,1,0.4,1,0,22/23,0,0,2022/11/05 - Blackburn Rovers,2022/11/05 - Blackburn Rovers vs Huddersfield Town,Blackburn Rovers,0.8,1,Huddersfield Town,0.4,0
+10,3,05/11/2022,Mark,Blackburn Rovers,TRUE,1,0.4,1,0,22/23,0,0,2022/11/05 - Blackburn Rovers,2022/11/05 - Blackburn Rovers vs Huddersfield Town,Blackburn Rovers,0.8,1,Huddersfield Town,0.4,0
+10,3,05/11/2022,Oli,Blackburn Rovers,TRUE,1,0.4,1,0,22/23,0,0,2022/11/05 - Blackburn Rovers,2022/11/05 - Blackburn Rovers vs Huddersfield Town,Blackburn Rovers,0.8,1,Huddersfield Town,0.4,0
+10,3,05/11/2022,Simon,Blackburn Rovers,TRUE,1,0.4,1,0,22/23,0,0,2022/11/05 - Blackburn Rovers,2022/11/05 - Blackburn Rovers vs Huddersfield Town,Blackburn Rovers,0.8,1,Huddersfield Town,0.4,0
+10,4,12/11/2022,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2022/11/12 - -,-,-,-,-,-,-,-
+10,4,12/11/2022,Birdy,Liverpool,TRUE,2,0.8,1,0,22/23,0,0,2022/11/12 - Liverpool,2022/11/12 - Liverpool vs Southampton,Liverpool,1.9,3,Southampton,1.1,1
+10,4,12/11/2022,Dom,-,TRUE,0,0,0,0,22/23,0,0,2022/11/12 - -,-,-,-,-,-,-,-
+10,4,12/11/2022,Leo,Arsenal,FALSE,2,1.4,1,1,22/23,0,0,2022/11/12 - Arsenal,2022/11/12 - Wolves vs Arsenal,Wolves,0.7,0,Arsenal,2.1,2
+10,4,12/11/2022,Marcus,Liverpool,TRUE,2,0.8,1,0,22/23,0,0,2022/11/12 - Liverpool,2022/11/12 - Liverpool vs Southampton,Liverpool,1.9,3,Southampton,1.1,1
+10,4,12/11/2022,Mark,Liverpool,TRUE,2,0.8,1,0,22/23,0,0,2022/11/12 - Liverpool,2022/11/12 - Liverpool vs Southampton,Liverpool,1.9,3,Southampton,1.1,1
+10,4,12/11/2022,Oli,Arsenal,FALSE,2,1.4,1,1,22/23,0,0,2022/11/12 - Arsenal,2022/11/12 - Wolves vs Arsenal,Wolves,0.7,0,Arsenal,2.1,2
+10,4,12/11/2022,Simon,Arsenal,FALSE,2,1.4,1,1,22/23,0,0,2022/11/12 - Arsenal,2022/11/12 - Wolves vs Arsenal,Wolves,0.7,0,Arsenal,2.1,2
+10,5,26/12/2022,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2022/12/26 - -,-,-,-,-,-,-,-
+10,5,26/12/2022,Birdy,Sheffield United,TRUE,2,0.6,1,0,22/23,0,0,2022/12/26 - Sheffield United,2022/12/26 - Sheffield United vs Coventry City,Sheffield United,2.1,3,Coventry City,1.5,1
+10,5,26/12/2022,Dom,-,TRUE,0,0,0,0,22/23,0,0,2022/12/26 - -,-,-,-,-,-,-,-
+10,5,26/12/2022,Leo,Preston North End,TRUE,-1,-0.3,0,0,22/23,0,0,2022/12/26 - Preston North End,2022/12/26 - Preston North End vs Huddersfield Town,Preston North End,0.9,1,Huddersfield Town,1.2,2
+10,5,26/12/2022,Marcus,Preston North End,TRUE,-1,-0.3,0,0,22/23,0,0,2022/12/26 - Preston North End,2022/12/26 - Preston North End vs Huddersfield Town,Preston North End,0.9,1,Huddersfield Town,1.2,2
+10,5,26/12/2022,Mark,Preston North End,TRUE,-1,-0.3,1,0,22/23,0,0,2022/12/26 - Preston North End,2022/12/26 - Preston North End vs Huddersfield Town,Preston North End,0.9,1,Huddersfield Town,1.2,2
+10,5,26/12/2022,Oli,Preston North End,TRUE,-1,-0.3,1,0,22/23,0,0,2022/12/26 - Preston North End,2022/12/26 - Preston North End vs Huddersfield Town,Preston North End,0.9,1,Huddersfield Town,1.2,2
+10,5,26/12/2022,Simon,Preston North End,TRUE,-1,-0.3,0,0,22/23,0,0,2022/12/26 - Preston North End,2022/12/26 - Preston North End vs Huddersfield Town,Preston North End,0.9,1,Huddersfield Town,1.2,2
+10,6,30/12/2022,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2022/12/30 - -,-,-,-,-,-,-,-
+10,6,31/12/2022,Birdy,Fulham,TRUE,1,0.7,1,0,22/23,0,0,2022/12/31 - Fulham,2022/12/31 - Fulham vs Southampton,Fulham,1.5,2,Southampton,0.8,1
+10,6,31/12/2022,Dom,-,TRUE,0,0,0,0,22/23,0,0,2022/12/31 - -,-,-,-,-,-,-,-
+10,6,31/12/2022,Leo,-,TRUE,0,0,0,0,22/23,0,0,2022/12/31 - -,-,-,-,-,-,-,-
+10,6,31/12/2022,Marcus,-,TRUE,0,0,0,0,22/23,0,0,2022/12/31 - -,-,-,-,-,-,-,-
+10,6,31/12/2022,Mark,Fulham,TRUE,1,0.7,1,0,22/23,0,0,2022/12/31 - Fulham,2022/12/31 - Fulham vs Southampton,Fulham,1.5,2,Southampton,0.8,1
+10,6,31/12/2022,Oli,Newcastle United,TRUE,0,1.8,0,1,22/23,0,0,2022/12/31 - Newcastle United,2022/12/31 - Newcastle United vs Leeds United,Newcastle United,2.2,0,Leeds United,0.4,0
+10,6,31/12/2022,Simon,-,TRUE,0,0,0,0,22/23,0,0,2022/12/31 - -,-,-,-,-,-,-,-
+10,7,03/01/2023,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2023/01/03 - -,-,-,-,-,-,-,-
+10,7,03/01/2023,Birdy,Manchester United,TRUE,3,1.6,1,1,22/23,0,0,2023/01/03 - Manchester United,2023/01/03 - Manchester United vs Bournemouth,Manchester United,2.2,3,Bournemouth,0.6,0
+10,7,03/01/2023,Dom,-,TRUE,0,0,0,0,22/23,0,0,2023/01/03 - -,-,-,-,-,-,-,-
+10,7,03/01/2023,Leo,-,TRUE,0,0,0,0,22/23,0,0,2023/01/03 - -,-,-,-,-,-,-,-
+10,7,03/01/2023,Marcus,-,TRUE,0,0,0,0,22/23,0,0,2023/01/03 - -,-,-,-,-,-,-,-
+10,7,03/01/2023,Mark,Manchester United,TRUE,3,1.6,1,1,22/23,0,0,2023/01/03 - Manchester United,2023/01/03 - Manchester United vs Bournemouth,Manchester United,2.2,3,Bournemouth,0.6,0
+10,7,03/01/2023,Oli,-,TRUE,0,0,0,0,22/23,0,0,2023/01/03 - -,-,-,-,-,-,-,-
+10,7,03/01/2023,Simon,-,TRUE,0,0,0,0,22/23,0,0,2023/01/03 - -,-,-,-,-,-,-,-
+10,8,14/01/2023,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2023/01/14 - -,-,-,-,-,-,-,-
+10,8,14/01/2023,Birdy,Burnley,TRUE,1,-0.4,1,0,22/23,0,0,2023/01/14 - Burnley,2023/01/14 - Burnley vs Coventry City,Burnley,0.6,1,Coventry City,1,0
+10,8,14/01/2023,Dom,-,TRUE,0,0,0,0,22/23,0,0,2023/01/14 - -,-,-,-,-,-,-,-
+10,8,14/01/2023,Leo,-,TRUE,0,0,0,0,22/23,0,0,2023/01/14 - -,-,-,-,-,-,-,-
+10,8,14/01/2023,Marcus,-,TRUE,0,0,0,0,22/23,0,0,2023/01/14 - -,-,-,-,-,-,-,-
+10,8,14/01/2023,Mark,Brentford,TRUE,2,0.8,1,0,22/23,0,0,2023/01/14 - Brentford,2023/01/14 - Brentford vs Bournemouth,Brentford,1.4,2,Bournemouth,0.6,0
+10,8,14/01/2023,Oli,-,TRUE,0,0,0,0,22/23,0,0,2023/01/14 - -,-,-,-,-,-,-,-
+10,8,14/01/2023,Simon,-,TRUE,0,0,0,0,22/23,0,0,2023/01/14 - -,-,-,-,-,-,-,-
+10,9,21/01/2023,Aidan,-,TRUE,0,0,0,0,22/23,0,0,2023/01/21 - -,-,-,-,-,-,-,-
+10,9,21/01/2023,Birdy,Watford,TRUE,0,0.7,0,0,22/23,0,0,2023/01/21 - Watford,2023/01/21 - Watford vs Rotherham United,Watford,2,1,Rotherham United,1.3,1
+10,9,21/01/2023,Dom,-,TRUE,0,0,0,0,22/23,0,0,2023/01/21 - -,-,-,-,-,-,-,-
+10,9,21/01/2023,Leo,-,TRUE,0,0,0,0,22/23,0,0,2023/01/21 - -,-,-,-,-,-,-,-
+10,9,21/01/2023,Marcus,-,TRUE,0,0,0,0,22/23,0,0,2023/01/21 - -,-,-,-,-,-,-,-
+10,9,21/01/2023,Mark,Watford,TRUE,0,0.7,0,0,22/23,0,0,2023/01/21 - Watford,2023/01/21 - Watford vs Rotherham United,Watford,2,1,Rotherham United,1.3,1
+10,9,21/01/2023,Oli,-,TRUE,0,0,0,0,22/23,0,0,2023/01/21 - -,-,-,-,-,-,-,-
+10,9,21/01/2023,Simon,-,TRUE,0,0,0,0,22/23,0,0,2023/01/21 - -,-,-,-,-,-,-,-
+11,1,04/02/2023,Aidan,Middlesbrough,TRUE,3,0.4,1,0,22/23,-5,0,2023/02/04 - Middlesbrough,2023/02/04 - Middlesbrough vs Blackpool,Middlesbrough,1.9,3,Blackpool,1.5,0
+11,1,04/02/2023,Birdy,Manchester United,TRUE,1,0.7,1,0,22/23,-5,0,2023/02/04 - Manchester United,2023/02/04 - Manchester United vs Crystal Palace,Manchester United,2,2,Crystal Palace,1.3,1
+11,1,04/02/2023,Dom,Middlesbrough,TRUE,3,0.4,1,0,22/23,-5,0,2023/02/04 - Middlesbrough,2023/02/04 - Middlesbrough vs Blackpool,Middlesbrough,1.9,3,Blackpool,1.5,0
+11,1,04/02/2023,Leo,Middlesbrough,TRUE,3,0.4,1,0,22/23,-5,0,2023/02/04 - Middlesbrough,2023/02/04 - Middlesbrough vs Blackpool,Middlesbrough,1.9,3,Blackpool,1.5,0
+11,1,04/02/2023,Marcus,Middlesbrough,TRUE,3,0.4,1,0,22/23,-5,0,2023/02/04 - Middlesbrough,2023/02/04 - Middlesbrough vs Blackpool,Middlesbrough,1.9,3,Blackpool,1.5,0
+11,1,04/02/2023,Mark,Brighton and Hove Albion,TRUE,1,1.1,1,1,22/23,-5,0,2023/02/04 - Brighton and Hove Albion,2023/02/04 - Brighton and Hove Albion vs Bournemouth,Brighton and Hove Albion,2.2,1,Bournemouth,1.1,0
+11,1,04/02/2023,Oli,Manchester United,TRUE,1,0.7,1,0,22/23,-5,0,2023/02/04 - Manchester United,2023/02/04 - Manchester United vs Crystal Palace,Manchester United,2,2,Crystal Palace,1.3,1
+11,1,04/02/2023,Simon,Newcastle United,TRUE,0,0,0,0,22/23,-5,0,2023/02/04 - Newcastle United,2023/02/04 - Newcastle United vs West Ham United,Newcastle United,1,1,West Ham United,1,1
+11,2,11/02/2023,Aidan,Burnley,TRUE,3,1.1,1,1,22/23,0,0,2023/02/11 - Burnley,2023/02/11 - Burnley vs Preston North End,Burnley,1.3,3,Preston North End,0.2,0
+11,2,11/02/2023,Birdy,Burnley,TRUE,3,1.1,1,1,22/23,0,0,2023/02/11 - Burnley,2023/02/11 - Burnley vs Preston North End,Burnley,1.3,3,Preston North End,0.2,0
+11,2,11/02/2023,Dom,Arsenal,TRUE,0,-0.4,0,0,22/23,0,0,2023/02/11 - Arsenal,2023/02/11 - Arsenal vs Brentford,Arsenal,1.6,1,Brentford,2,1
+11,2,11/02/2023,Leo,Arsenal,TRUE,0,-0.4,0,0,22/23,0,0,2023/02/11 - Arsenal,2023/02/11 - Arsenal vs Brentford,Arsenal,1.6,1,Brentford,2,1
+11,2,11/02/2023,Marcus,Burnley,TRUE,3,1.1,1,1,22/23,0,0,2023/02/11 - Burnley,2023/02/11 - Burnley vs Preston North End,Burnley,1.3,3,Preston North End,0.2,0
+11,2,11/02/2023,Mark,Burnley,TRUE,3,1.1,1,1,22/23,0,0,2023/02/11 - Burnley,2023/02/11 - Burnley vs Preston North End,Burnley,1.3,3,Preston North End,0.2,0
+11,2,11/02/2023,Oli,Arsenal,TRUE,0,-0.4,0,0,22/23,0,0,2023/02/11 - Arsenal,2023/02/11 - Arsenal vs Brentford,Arsenal,1.6,1,Brentford,2,1
+11,2,11/02/2023,Simon,-,TRUE,0,0,0,0,22/23,0,0,2023/02/11 - -,-,-,-,-,-,-,-
+11,3,18/02/2023,Aidan,Manchester City,FALSE,0,1.5,0,1,22/23,0,0,2023/02/18 - Manchester City,2023/02/18 - Nottingham Forest vs Manchester City,Nottingham Forest,0.9,1,Manchester City,2.4,1
+11,3,18/02/2023,Birdy,Middlesbrough,TRUE,2,1.6,1,1,22/23,80,1,2023/02/18 - Middlesbrough,2023/02/18 - Middlesbrough vs Queens Park Rangers,Middlesbrough,2.3,3,Queens Park Rangers,0.7,1
+11,3,18/02/2023,Dom,-,TRUE,0,0,0,0,22/23,0,0,2023/02/18 - -,-,-,-,-,-,-,-
+11,3,18/02/2023,Leo,-,TRUE,0,0,0,0,22/23,0,0,2023/02/18 - -,-,-,-,-,-,-,-
+11,3,18/02/2023,Marcus,Chelsea,TRUE,-1,1,0,1,22/23,0,0,2023/02/18 - Chelsea,2023/02/18 - Chelsea vs Southampton,Chelsea,1.6,0,Southampton,0.6,1
+11,3,18/02/2023,Mark,Chelsea,TRUE,-1,1,0,1,22/23,0,0,2023/02/18 - Chelsea,2023/02/18 - Chelsea vs Southampton,Chelsea,1.6,0,Southampton,0.6,1
+11,3,18/02/2023,Oli,-,TRUE,0,0,0,0,22/23,0,0,2023/02/18 - -,-,-,-,-,-,-,-
+11,3,18/02/2023,Simon,-,TRUE,0,0,0,0,22/23,0,0,2023/02/18 - -,-,-,-,-,-,-,-
+12,1,25/02/2023,Aidan,Manchester City,FALSE,3,1.4,1,1,22/23,-5,0,2023/02/25 - Manchester City,2023/02/25 - Bournemouth vs Manchester City,Bournemouth,1,1,Manchester City,2.4,4
+12,1,25/02/2023,Birdy,Norwich City,TRUE,2,1.1,1,1,22/23,-5,0,2023/02/25 - Norwich City,2023/02/25 - Norwich City vs Cardiff City,Norwich City,1.7,2,Cardiff City,0.6,0
+12,1,25/02/2023,Dom,Burnley,TRUE,4,3.2,1,1,22/23,-5,0,2023/02/25 - Burnley,2023/02/25 - Burnley vs Huddersfield Town,Burnley,3.5,4,Huddersfield Town,0.3,0
+12,1,25/02/2023,Leo,Burnley,TRUE,4,3.2,1,1,22/23,-5,0,2023/02/25 - Burnley,2023/02/25 - Burnley vs Huddersfield Town,Burnley,3.5,4,Huddersfield Town,0.3,0
+12,1,25/02/2023,Marcus,Burnley,TRUE,4,3.2,1,1,22/23,-5,0,2023/02/25 - Burnley,2023/02/25 - Burnley vs Huddersfield Town,Burnley,3.5,4,Huddersfield Town,0.3,0
+12,1,25/02/2023,Mark,Burnley,TRUE,4,3.2,1,1,22/23,-5,0,2023/02/25 - Burnley,2023/02/25 - Burnley vs Huddersfield Town,Burnley,3.5,4,Huddersfield Town,0.3,0
+12,1,25/02/2023,Oli,Manchester City,FALSE,3,1.4,1,1,22/23,-5,0,2023/02/25 - Manchester City,2023/02/25 - Bournemouth vs Manchester City,Bournemouth,1,1,Manchester City,2.4,4
+12,1,25/02/2023,Simon,Burnley,TRUE,4,3.2,1,1,22/23,-5,0,2023/02/25 - Burnley,2023/02/25 - Burnley vs Huddersfield Town,Burnley,3.5,4,Huddersfield Town,0.3,0
+12,2,04/03/2023,Aidan,Arsenal,TRUE,1,0.8,1,0,22/23,0,0,2023/03/04 - Arsenal,2023/03/04 - Arsenal vs Bournemouth,Arsenal,2.1,3,Bournemouth,1.3,2
+12,2,04/03/2023,Birdy,Watford,TRUE,0,0.5,0,0,22/23,0,0,2023/03/04 - Watford,2023/03/04 - Watford vs Preston North End,Watford,0.9,0,Preston North End,0.4,0
+12,2,04/03/2023,Dom,Chelsea,TRUE,1,0.5,1,0,22/23,0,0,2023/03/04 - Chelsea,2023/03/04 - Chelsea vs Leeds United,Chelsea,1.5,1,Leeds United,1,0
+12,2,04/03/2023,Leo,Arsenal,TRUE,1,0.8,1,0,22/23,0,0,2023/03/04 - Arsenal,2023/03/04 - Arsenal vs Bournemouth,Arsenal,2.1,3,Bournemouth,1.3,2
+12,2,04/03/2023,Marcus,Arsenal,TRUE,1,0.8,1,0,22/23,0,0,2023/03/04 - Arsenal,2023/03/04 - Arsenal vs Bournemouth,Arsenal,2.1,3,Bournemouth,1.3,2
+12,2,04/03/2023,Mark,Arsenal,TRUE,1,0.8,1,0,22/23,0,0,2023/03/04 - Arsenal,2023/03/04 - Arsenal vs Bournemouth,Arsenal,2.1,3,Bournemouth,1.3,2
+12,2,04/03/2023,Oli,Arsenal,TRUE,1,0.8,1,0,22/23,0,0,2023/03/04 - Arsenal,2023/03/04 - Arsenal vs Bournemouth,Arsenal,2.1,3,Bournemouth,1.3,2
+12,2,04/03/2023,Simon,Arsenal,TRUE,1,0.8,1,0,22/23,0,0,2023/03/04 - Arsenal,2023/03/04 - Arsenal vs Bournemouth,Arsenal,2.1,3,Bournemouth,1.3,2
+12,3,11/03/2023,Aidan,Burnley,TRUE,3,2.6,1,1,22/23,0,0,2023/03/11 - Burnley,2023/03/11 - Burnley vs Wigan Athletic,Burnley,3.1,3,Wigan Athletic,0.5,0
+12,3,11/03/2023,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2023/03/11 - -,-,-,-,-,-,-,-
+12,3,11/03/2023,Dom,Liverpool,FALSE,-1,0.8,0,0,22/23,0,0,2023/03/11 - Liverpool,2023/03/11 - Bournemouth vs Liverpool,Bournemouth,0.9,1,Liverpool,1.7,0
+12,3,11/03/2023,Leo,Tottenham Hotspur,TRUE,2,0.5,1,0,22/23,0,0,2023/03/11 - Tottenham Hotspur,2023/03/11 - Tottenham Hotspur vs Nottingham Forest,Tottenham Hotspur,2,3,Nottingham Forest,1.5,1
+12,3,11/03/2023,Marcus,Tottenham Hotspur,TRUE,2,0.5,1,0,22/23,0,0,2023/03/11 - Tottenham Hotspur,2023/03/11 - Tottenham Hotspur vs Nottingham Forest,Tottenham Hotspur,2,3,Nottingham Forest,1.5,1
+12,3,11/03/2023,Mark,West Bromwich Albion,TRUE,1,1.2,1,1,22/23,0,0,2023/03/11 - West Bromwich Albion,2023/03/11 - West Bromwich Albion vs Huddersfield Town,West Bromwich Albion,1.7,1,Huddersfield Town,0.5,0
+12,3,11/03/2023,Oli,Burnley,TRUE,3,2.6,1,1,22/23,0,0,2023/03/11 - Burnley,2023/03/11 - Burnley vs Wigan Athletic,Burnley,3.1,3,Wigan Athletic,0.5,0
+12,3,11/03/2023,Simon,Middlesbrough,FALSE,2,0.8,1,0,22/23,0,0,2023/03/11 - Middlesbrough,2023/03/11 - Swansea City vs Middlesbrough,Swansea City,1.2,1,Middlesbrough,2,3
+12,4,18/03/2023,Aidan,Watford,TRUE,0,0.7,0,0,22/23,0,0,2023/03/18 - Watford,2023/03/18 - Watford vs Wigan Athletic,Watford,1,1,Wigan Athletic,0.3,1
+12,4,18/03/2023,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2023/03/18 - -,-,-,-,-,-,-,-
+12,4,18/03/2023,Dom,-,TRUE,0,0,0,0,22/23,0,0,2023/03/18 - -,-,-,-,-,-,-,-
+12,4,18/03/2023,Leo,Millwall,TRUE,-1,0.9,0,0,22/23,0,0,2023/03/18 - Millwall,2023/03/18 - Millwall vs Huddersfield Town,Millwall,1.2,0,Huddersfield Town,0.3,1
+12,4,18/03/2023,Marcus,Brentford,TRUE,0,-0.7,0,0,22/23,0,0,2023/03/18 - Brentford,2023/03/18 - Brentford vs Leicester City,Brentford,0.6,1,Leicester City,1.3,1
+12,4,18/03/2023,Mark,Millwall,TRUE,-1,0.9,0,0,22/23,0,0,2023/03/18 - Millwall,2023/03/18 - Millwall vs Huddersfield Town,Millwall,1.2,0,Huddersfield Town,0.3,1
+12,4,18/03/2023,Oli,Middlesbrough,TRUE,4,1,1,1,22/23,40,1,2023/03/18 - Middlesbrough,2023/03/18 - Middlesbrough vs Preston North End,Middlesbrough,1.5,4,Preston North End,0.5,0
+12,4,18/03/2023,Simon,Millwall,TRUE,-1,0.9,0,0,22/23,0,0,2023/03/18 - Millwall,2023/03/18 - Millwall vs Huddersfield Town,Millwall,1.2,0,Huddersfield Town,0.3,1
+13,1,01/04/2023,Aidan,Arsenal,TRUE,3,3.1,1,1,22/23,-5,0,2023/04/01 - Arsenal,2023/04/01 - Arsenal vs Leeds United,Arsenal,3.8,4,Leeds United,0.7,1
+13,1,01/04/2023,Birdy,Hull City,TRUE,0,1,0,1,22/23,-5,0,2023/04/01 - Hull City,2023/04/01 - Hull City vs Rotherham United,Hull City,1.6,0,Rotherham United,0.6,0
+13,1,01/04/2023,Dom,Arsenal,TRUE,3,3.1,1,1,22/23,-5,0,2023/04/01 - Arsenal,2023/04/01 - Arsenal vs Leeds United,Arsenal,3.8,4,Leeds United,0.7,1
+13,1,01/04/2023,Leo,Manchester City,TRUE,3,2.6,1,1,22/23,-5,0,2023/04/01 - Manchester City,2023/04/01 - Manchester City vs Liverpool,Manchester City,2.9,4,Liverpool,0.3,1
+13,1,01/04/2023,Marcus,Arsenal,TRUE,3,3.1,1,1,22/23,-5,0,2023/04/01 - Arsenal,2023/04/01 - Arsenal vs Leeds United,Arsenal,3.8,4,Leeds United,0.7,1
+13,1,01/04/2023,Mark,Arsenal,TRUE,3,3.1,1,1,22/23,-5,0,2023/04/01 - Arsenal,2023/04/01 - Arsenal vs Leeds United,Arsenal,3.8,4,Leeds United,0.7,1
+13,1,01/04/2023,Oli,Arsenal,TRUE,3,3.1,1,1,22/23,-5,0,2023/04/01 - Arsenal,2023/04/01 - Arsenal vs Leeds United,Arsenal,3.8,4,Leeds United,0.7,1
+13,1,01/04/2023,Simon,Arsenal,TRUE,3,3.1,1,1,22/23,-5,0,2023/04/01 - Arsenal,2023/04/01 - Arsenal vs Leeds United,Arsenal,3.8,4,Leeds United,0.7,1
+13,2,08/04/2023,Aidan,Aston Villa,TRUE,2,1.1,1,1,22/23,0,0,2023/04/08 - Aston Villa,2023/04/08 - Aston Villa vs Nottingham Forest,Aston Villa,1.3,2,Nottingham Forest,0.2,0
+13,2,08/04/2023,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2023/04/08 - -,-,-,-,-,-,-,-
+13,2,08/04/2023,Dom,Aston Villa,TRUE,2,1.1,1,1,22/23,0,0,2023/04/08 - Aston Villa,2023/04/08 - Aston Villa vs Nottingham Forest,Aston Villa,1.3,2,Nottingham Forest,0.2,0
+13,2,08/04/2023,Leo,Manchester United,TRUE,2,2.4,1,1,22/23,0,0,2023/04/08 - Manchester United,2023/04/08 - Manchester United vs Everton,Manchester United,3.4,2,Everton,1,0
+13,2,08/04/2023,Marcus,Manchester City,FALSE,3,2.5,1,1,22/23,0,0,2023/04/08 - Manchester City,2023/04/08 - Southampton vs Manchester City,Southampton,0.4,1,Manchester City,2.9,4
+13,2,08/04/2023,Mark,Manchester City,FALSE,3,2.5,1,1,22/23,0,0,2023/04/08 - Manchester City,2023/04/08 - Southampton vs Manchester City,Southampton,0.4,1,Manchester City,2.9,4
+13,2,08/04/2023,Oli,Aston Villa,TRUE,2,1.1,1,1,22/23,0,0,2023/04/08 - Aston Villa,2023/04/08 - Aston Villa vs Nottingham Forest,Aston Villa,1.3,2,Nottingham Forest,0.2,0
+13,2,08/04/2023,Simon,Manchester United,TRUE,2,2.4,1,1,22/23,0,0,2023/04/08 - Manchester United,2023/04/08 - Manchester United vs Everton,Manchester United,3.4,2,Everton,1,0
+13,3,15/04/2023,Aidan,Sheffield United,TRUE,3,1.4,1,1,22/23,0,0,2023/04/15 - Sheffield United,2023/04/15 - Sheffield United vs Cardiff City,Sheffield United,3,4,Cardiff City,1.6,1
+13,3,15/04/2023,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2023/04/15 - -,-,-,-,-,-,-,-
+13,3,15/04/2023,Dom,Manchester City,TRUE,2,-0.7,1,0,22/23,0,0,2023/04/15 - Manchester City,2023/04/15 - Manchester City vs Leicester City,Manchester City,1.6,3,Leicester City,2.3,1
+13,3,15/04/2023,Leo,Sheffield United,TRUE,3,1.4,1,1,22/23,0,0,2023/04/15 - Sheffield United,2023/04/15 - Sheffield United vs Cardiff City,Sheffield United,3,4,Cardiff City,1.6,1
+13,3,15/04/2023,Marcus,Sheffield United,TRUE,3,1.4,1,1,22/23,0,0,2023/04/15 - Sheffield United,2023/04/15 - Sheffield United vs Cardiff City,Sheffield United,3,4,Cardiff City,1.6,1
+13,3,15/04/2023,Mark,Sheffield United,TRUE,3,1.4,1,1,22/23,0,0,2023/04/15 - Sheffield United,2023/04/15 - Sheffield United vs Cardiff City,Sheffield United,3,4,Cardiff City,1.6,1
+13,3,15/04/2023,Oli,Manchester City,TRUE,2,-0.7,1,0,22/23,0,0,2023/04/15 - Manchester City,2023/04/15 - Manchester City vs Leicester City,Manchester City,1.6,3,Leicester City,2.3,1
+13,3,15/04/2023,Simon,Manchester City,TRUE,2,-0.7,1,0,22/23,0,0,2023/04/15 - Manchester City,2023/04/15 - Manchester City vs Leicester City,Manchester City,1.6,3,Leicester City,2.3,1
+13,4,22/04/2023,Aidan,Liverpool,TRUE,1,1.9,1,1,22/23,0,0,2023/04/22 - Liverpool,2023/04/22 - Liverpool vs Nottingham Forest,Liverpool,2.8,3,Nottingham Forest,0.9,2
+13,4,22/04/2023,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2023/04/22 - -,-,-,-,-,-,-,-
+13,4,22/04/2023,Dom,Liverpool,TRUE,1,1.9,1,1,22/23,0,0,2023/04/22 - Liverpool,2023/04/22 - Liverpool vs Nottingham Forest,Liverpool,2.8,3,Nottingham Forest,0.9,2
+13,4,22/04/2023,Leo,Burnley,TRUE,-1,1.3,0,1,22/23,0,0,2023/04/22 - Burnley,2023/04/22 - Burnley vs Queens Park Rangers,Burnley,2,1,Queens Park Rangers,0.7,2
+13,4,22/04/2023,Marcus,Burnley,TRUE,-1,1.3,0,1,22/23,0,0,2023/04/22 - Burnley,2023/04/22 - Burnley vs Queens Park Rangers,Burnley,2,1,Queens Park Rangers,0.7,2
+13,4,22/04/2023,Mark,Burnley,TRUE,-1,1.3,0,1,22/23,0,0,2023/04/22 - Burnley,2023/04/22 - Burnley vs Queens Park Rangers,Burnley,2,1,Queens Park Rangers,0.7,2
+13,4,22/04/2023,Oli,Burnley,TRUE,-1,1.3,0,1,22/23,0,0,2023/04/22 - Burnley,2023/04/22 - Burnley vs Queens Park Rangers,Burnley,2,1,Queens Park Rangers,0.7,2
+13,4,22/04/2023,Simon,Burnley,TRUE,-1,1.3,0,1,22/23,0,0,2023/04/22 - Burnley,2023/04/22 - Burnley vs Queens Park Rangers,Burnley,2,1,Queens Park Rangers,0.7,2
+13,5,29/04/2023,Aidan,Coventry City,TRUE,2,0.1,1,0,22/23,0,0,2023/04/29 - Coventry City,2023/04/29 - Coventry City vs Birmingham City,Coventry City,1.4,2,Birmingham City,1.3,0
+13,5,29/04/2023,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2023/04/29 - -,-,-,-,-,-,-,-
+13,5,29/04/2023,Dom,Brighton and Hove Albion,TRUE,6,2.5,1,1,22/23,0,0,2023/04/29 - Brighton and Hove Albion,2023/04/29 - Brighton and Hove Albion vs Wolves,Brighton and Hove Albion,3.3,6,Wolves,0.8,0
+13,5,29/04/2023,Leo,-,TRUE,0,0,0,0,22/23,0,0,2023/04/29 - -,-,-,-,-,-,-,-
+13,5,29/04/2023,Marcus,-,TRUE,0,0,0,0,22/23,0,0,2023/04/29 - -,-,-,-,-,-,-,-
+13,5,29/04/2023,Mark,-,TRUE,0,0,0,0,22/23,0,0,2023/04/29 - -,-,-,-,-,-,-,-
+13,5,29/04/2023,Oli,-,TRUE,0,0,0,0,22/23,0,0,2023/04/29 - -,-,-,-,-,-,-,-
+13,5,29/04/2023,Simon,-,TRUE,0,0,0,0,22/23,0,0,2023/04/29 - -,-,-,-,-,-,-,-
+13,6,06/05/2023,Aidan,Manchester City,TRUE,1,2.4,1,1,22/23,0,0,2023/05/06 - Manchester City,2023/05/06 - Manchester City vs Leeds United,Manchester City,2.6,2,Leeds United,0.2,1
+13,6,06/05/2023,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2023/05/06 - -,-,-,-,-,-,-,-
+13,6,06/05/2023,Dom,Tottenham Hotspur,TRUE,1,0.5,1,0,22/23,0,0,2023/05/06 - Tottenham Hotspur,2023/05/06 - Tottenham Hotspur vs Crystal Palace,Tottenham Hotspur,0.9,1,Crystal Palace,0.4,0
+13,6,06/05/2023,Leo,-,TRUE,0,0,0,0,22/23,0,0,2023/05/06 - -,-,-,-,-,-,-,-
+13,6,06/05/2023,Marcus,-,TRUE,0,0,0,0,22/23,0,0,2023/05/06 - -,-,-,-,-,-,-,-
+13,6,06/05/2023,Mark,-,TRUE,0,0,0,0,22/23,0,0,2023/05/06 - -,-,-,-,-,-,-,-
+13,6,06/05/2023,Oli,-,TRUE,0,0,0,0,22/23,0,0,2023/05/06 - -,-,-,-,-,-,-,-
+13,6,06/05/2023,Simon,-,TRUE,0,0,0,0,22/23,0,0,2023/05/06 - -,-,-,-,-,-,-,-
+13,7,13/05/2023,Aidan,Manchester United,TRUE,2,2.9,1,1,22/23,40,1,2023/05/13 - Manchester United,2023/05/13 - Manchester United vs Wolves,Manchester United,3.2,2,Wolves,0.3,0
+13,7,13/05/2023,Birdy,-,TRUE,0,0,0,0,22/23,0,0,2023/05/13 - -,-,-,-,-,-,-,-
+13,7,13/05/2023,Dom,Chelsea,TRUE,0,-0.1,0,0,22/23,0,0,2023/05/13 - Chelsea,2023/05/13 - Chelsea vs Nottingham Forest,Chelsea,1.2,2,Nottingham Forest,1.3,2
+13,7,13/05/2023,Leo,-,TRUE,0,0,0,0,22/23,0,0,2023/05/13 - -,-,-,-,-,-,-,-
+13,7,13/05/2023,Marcus,-,TRUE,0,0,0,0,22/23,0,0,2023/05/13 - -,-,-,-,-,-,-,-
+13,7,13/05/2023,Mark,-,TRUE,0,0,0,0,22/23,0,0,2023/05/13 - -,-,-,-,-,-,-,-
+13,7,13/05/2023,Oli,-,TRUE,0,0,0,0,22/23,0,0,2023/05/13 - -,-,-,-,-,-,-,-
+13,7,13/05/2023,Simon,-,TRUE,0,0,0,0,22/23,0,0,2023/05/13 - -,-,-,-,-,-,-,-
