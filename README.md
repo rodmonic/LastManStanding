@@ -10,19 +10,19 @@ Over the summer, when games weren't being played, I took it upon myself to gener
 
 To provide a robust platform to analyse the costs and to hopefully make updating the stats each year easier, I used a mixture of python and PowerBi to clean, collate and display the results.
 
-## Data cleansing.
+## Data cleansing
 
 The first step was to take the organiser's Google Sheets record and convert it into excel. The initial structure was good for displaying results to a whatsapp group but not useful for data analysis
 
-| ![](./Documentation/Initial%20Data%20Table.png) |
+| ![Input data table](./Documentation/Initial%20Data%20Table.png) |
 | :--: |
 | Input Data |
 
 Unfortunately this was a manual process of pivoting the data to a more useful format, adding time and season detail and which player won.  The biggest issue within the data was standardised naming of the teams, however once that was fixed the data was ready for analysis
- 
+
 Once cleaned and imported into PowerBI the data looks as below. It contains the categorisation data, the winner and losses/winnings.
 
-| ![](./Documentation/Cleaned%20Data.png ) |
+| ![Cleaned data in PowerBI](./Documentation/Cleaned%20Data.png ) |
 | :--: |
 | Cleaned Data |
 
@@ -43,13 +43,13 @@ Two views were created for analysis.
 
 - The "Executive Summary" which provides summary statistics for that season or for all time.
 
-| ![](./Documentation/Executive%20Summary.png) |
+| ![Executive Summary Report](./Documentation/Executive%20Summary.png) |
 | :--: |
 | Executive Summary |
 
 - A more detailed view that provided all players stats and some charts showing teams and winnings in more detail
 
-| ![](./Documentation/Detailed%20View.png) |
+| ![Detailed View Report](./Documentation/Detailed%20View.png) |
 | :--: |
 | Detailed View |
 
@@ -65,7 +65,7 @@ From the executive view we can see that:
 
 ## Expected Goals
 
-After I sent out the first [Annual Report](./Outputs/LMS%20Annual%20Report%202023%20V2.pdf) at the end of the 22/23 season People mentioned that one of the measures they would be interested in who was the "unluckiest" player. Who picked teams that should have won but lost and who should feel the most annoyed at what results. To do this I investigated using the metric of XG or expected goals. 
+After I sent out the first [Annual Report](./Outputs/LMS%20Annual%20Report%202023%20V2.pdf) at the end of the 22/23 season People mentioned that one of the measures they would be interested in who was the "unluckiest" player. Who picked teams that should have won but lost and who should feel the most annoyed at what results. To do this I investigated using the metric of XG or expected goals.
 
 [Expected goals](https://theanalyst.com/eu/2023/08/what-is-expected-goals-xg/) is a measure of the quality of the chances that a team have within a game based on analysing the number of shots and the chance of a shot being scored based on similar shots from the past. My intuition would be that this measure could be used to measure the unluckiest player.
 
@@ -73,9 +73,9 @@ The issue around XG is that it is used frequently for betting algorithms and as 
 
 The inclusion of XG did complicate the data set however, as we now needed to know the opponents to a game and who was at home etc. After scraping and cleaning the data I could now generate a view on a players XG and how that has changed over time.
 
-| ![](./Documentation/Output%20With%20XG.png) |
+| ![Detailed view with XG included](./Documentation/Output%20With%20XG.png) |
 | :--: |
-| Detailed View |
+| Detailed View with XG |
 
 From this we can see that:
 
